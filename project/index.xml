@@ -13,21 +13,39 @@
     
     
     <item>
-      <title>External Project</title>
-      <link>https://vidhishanair.github.io/project/external-project/</link>
+      <title>Closed Domain Entity Recognition and Fraud Detection</title>
+      <link>https://vidhishanair.github.io/project/entity/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>https://vidhishanair.github.io/project/external-project/</guid>
+      <guid>https://vidhishanair.github.io/project/entity/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Internal Project</title>
-      <link>https://vidhishanair.github.io/project/internal-project/</link>
+      <title>Definition Generation</title>
+      <link>https://vidhishanair.github.io/project/defgen/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>https://vidhishanair.github.io/project/internal-project/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.</description>
+      <guid>https://vidhishanair.github.io/project/defgen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Latent Structured Representations for Abstractive Summarization</title>
+      <link>https://vidhishanair.github.io/project/summ/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://vidhishanair.github.io/project/summ/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Table to Text Generation</title>
+      <link>https://vidhishanair.github.io/project/tabletotext/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://vidhishanair.github.io/project/tabletotext/</guid>
+      <description></description>
     </item>
     
   </channel>
