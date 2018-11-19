@@ -33,15 +33,6 @@ Previously, I completed my masters from PESIT, Bangalore and worked at Flipkart,
     </item>
     
     <item>
-      <title>Skills</title>
-      <link>https://vidhishanair.github.io/home/skills/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 -0400</pubDate>
-      
-      <guid>https://vidhishanair.github.io/home/skills/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Experience</title>
       <link>https://vidhishanair.github.io/home/experience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -110,9 +101,7 @@ Previously, I completed my masters from PESIT, Bangalore and worked at Flipkart,
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://vidhishanair.github.io/home/teaching/</guid>
-      <description>This is an example of using the custom widget to create your own homepage section.
-I am a teaching instructor for the following courses at University X:
- CS101: An intro to computer science CS102: An intro to computer science CS103: An intro to computer science CS104: An intro to computer science CS105: An intro to computer science CS106: An intro to computer science CS107: An intro to computer science  </description>
+      <description></description>
     </item>
     
     <item>
