@@ -2,6 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     
+  
+    
     <url>
     
       <loc>https://vidhishanair.github.io/tutorial/example/</loc>
@@ -120,6 +122,14 @@
     
       <loc>https://vidhishanair.github.io/tags/demo/</loc>
       <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://vidhishanair.github.io/experience/</loc>
       <priority>0</priority>
     </url>
     
