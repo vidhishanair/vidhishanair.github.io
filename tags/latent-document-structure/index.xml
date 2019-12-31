@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Latent Document Structure on Vidhisha Balachandran</title>
+    <link>https://vidhishanair.github.io/tags/latent-document-structure/</link>
+    <description>Recent content in Latent Document Structure on Vidhisha Balachandran</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Vidhisha Balachandran 2018</copyright>
+    <lastBuildDate>Fri, 12 Oct 2018 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://vidhishanair.github.io/tags/latent-document-structure/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Latent Structured Representations for Abstractive Summarization</title>
+      <link>https://vidhishanair.github.io/project/summ/</link>
+      <pubDate>Fri, 12 Oct 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://vidhishanair.github.io/project/summ/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

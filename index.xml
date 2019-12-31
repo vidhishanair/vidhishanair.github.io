@@ -21,6 +21,25 @@
     
     <item>
       <title>Differentiable Reasoning over a Virtual Knowledge Base</title>
+      <link>https://vidhishanair.github.io/project/vkb/</link>
+      <pubDate>Fri, 13 Dec 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://vidhishanair.github.io/project/vkb/</guid>
+      <description>&lt;p&gt;We consider the task of answering complex multi-hop questions using a corpus as a virtual knowledge base (KB). In particular, we describe a neural module, DrKIT, that traverses textual data like a virtual KB, softly following paths of relations between mentions of entities in the corpus. At each step the operation uses a combination of sparse-matrix TFIDF indices and maximum inner product search (MIPS) on a special index of contextual representations. This module is differentiable, so the full system can be trained completely end-to-end using gradient based methods, starting from natural language inputs. We also describe a pretraining scheme for the index mention encoder by generating hard negative examples using existing knowledge bases. We show that DrKIT improves accuracy by 9 points on 3-hop questions in the MetaQA dataset, cutting the gap between text-based and KB-based state-of-the-art by 70%. DrKIT is also very efficient, processing upto 10x more queries per second than existing state-of-the-art QA systems.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Closed Domain Entity Recognition and Fraud Detection</title>
+      <link>https://vidhishanair.github.io/project/entity/</link>
+      <pubDate>Sat, 02 Mar 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://vidhishanair.github.io/project/entity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Differentiable Reasoning over a Virtual Knowledge Base</title>
       <link>https://vidhishanair.github.io/publication/diffindex/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
       
@@ -34,6 +53,15 @@
       <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
       
       <guid>https://vidhishanair.github.io/publication/defgen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Latent Structured Representations for Abstractive Summarization</title>
+      <link>https://vidhishanair.github.io/project/summ/</link>
+      <pubDate>Fri, 12 Oct 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://vidhishanair.github.io/project/summ/</guid>
       <description></description>
     </item>
     
@@ -54,6 +82,25 @@
 &lt;h2 id=&#34;tip-2&#34;&gt;Tip 2&lt;/h2&gt;
 
 &lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Table to Text Generation</title>
+      <link>https://vidhishanair.github.io/project/tabletotext/</link>
+      <pubDate>Sun, 27 May 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://vidhishanair.github.io/project/tabletotext/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Definition Generation</title>
+      <link>https://vidhishanair.github.io/project/defgen/</link>
+      <pubDate>Mon, 04 Dec 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://vidhishanair.github.io/project/defgen/</guid>
+      <description>&lt;p&gt;One way to test a person’s knowledge of a domain is to ask them to define domain-specific terms. Here, we investigate the task of automatically generating definitions of technical terms by reading text from the technical domain. Specifically, we learn definitions of software entities from a large corpus built from the user forum Stack Overflow. To model definitions, we train a language model and incorporate additional domain-specific information like word-word co-occurrence, and ontological category information. Our approach improves previous baselines by 2 BLEU points for the definition generation task. Our experiments also show the additional challenges associated with the task and the short-comings of language-model based architectures for definition generation.&lt;/p&gt;
 </description>
     </item>
     
@@ -79,52 +126,6 @@
 
 &lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Closed Domain Entity Recognition and Fraud Detection</title>
-      <link>https://vidhishanair.github.io/project/entity/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
-      
-      <guid>https://vidhishanair.github.io/project/entity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Definition Generation</title>
-      <link>https://vidhishanair.github.io/project/defgen/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
-      
-      <guid>https://vidhishanair.github.io/project/defgen/</guid>
-      <description>&lt;p&gt;One way to test a person’s knowledge of a domain is to ask them to define domain-specific terms. Here, we investigate the task of automatically generating definitions of technical terms by reading text from the technical domain. Specifically, we learn definitions of software entities from a large corpus built from the user forum Stack Overflow. To model definitions, we train a language model and incorporate additional domain-specific information like word-word co-occurrence, and ontological category information. Our approach improves previous baselines by 2 BLEU points for the definition generation task. Our experiments also show the additional challenges associated with the task and the short-comings of language-model based architectures for definition generation.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Differentiable Reasoning over a Virtual Knowledge Base</title>
-      <link>https://vidhishanair.github.io/project/vkb/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
-      
-      <guid>https://vidhishanair.github.io/project/vkb/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Latent Structured Representations for Abstractive Summarization</title>
-      <link>https://vidhishanair.github.io/project/summ/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
-      
-      <guid>https://vidhishanair.github.io/project/summ/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Table to Text Generation</title>
-      <link>https://vidhishanair.github.io/project/tabletotext/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
-      
-      <guid>https://vidhishanair.github.io/project/tabletotext/</guid>
-      <description></description>
     </item>
     
     <item>

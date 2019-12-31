@@ -15,10 +15,10 @@
   
     
   
-  <meta name="description" content="Built a Seq2Seq model for generating biographies of people from Wikipedia Biography Tables. Used alignments between table and text phrases to improve biographies. Results were on par with the previous State of Art models">
+  <meta name="description" content="We consider the task of answering complex multi-hop questions using a corpus as a virtual knowledge base (KB). In particular, we describe a neural module, DrKIT, that traverses textual data like a virtual KB, softly following paths of relations between mentions of entities in the corpus. At each step the operation uses a combination of sparse-matrix TFIDF indices and maximum inner product search (MIPS) on a special index of contextual representations. This module is differentiable, so the full system can be trained completely end-to-end using gradient based methods, starting from natural language inputs. We also describe a pretraining scheme for the index mention encoder by generating hard negative examples using existing knowledge bases. We show that DrKIT improves accuracy by 9 points on 3-hop questions in the MetaQA dataset, cutting the gap between text-based and KB-based state-of-the-art by 70%. DrKIT is also very efficient, processing upto 10x more queries per second than existing state-of-the-art QA systems.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://vidhishanair.github.io/project/tabletotext/">
+  <link rel="alternate" hreflang="en-us" href="https://vidhishanair.github.io/project/diffindex/">
 
   
 
@@ -86,30 +86,30 @@
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://vidhishanair.github.io/project/tabletotext/">
+  <link rel="canonical" href="https://vidhishanair.github.io/project/diffindex/">
 
   <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="Vidhisha Balachandran">
-  <meta property="og:url" content="https://vidhishanair.github.io/project/tabletotext/">
-  <meta property="og:title" content="Table to Text Generation | Vidhisha Balachandran">
-  <meta property="og:description" content="Built a Seq2Seq model for generating biographies of people from Wikipedia Biography Tables. Used alignments between table and text phrases to improve biographies. Results were on par with the previous State of Art models">
+  <meta property="og:url" content="https://vidhishanair.github.io/project/diffindex/">
+  <meta property="og:title" content="Differentiable Reasoning over a Virtual Knowledge Base | Vidhisha Balachandran">
+  <meta property="og:description" content="We consider the task of answering complex multi-hop questions using a corpus as a virtual knowledge base (KB). In particular, we describe a neural module, DrKIT, that traverses textual data like a virtual KB, softly following paths of relations between mentions of entities in the corpus. At each step the operation uses a combination of sparse-matrix TFIDF indices and maximum inner product search (MIPS) on a special index of contextual representations. This module is differentiable, so the full system can be trained completely end-to-end using gradient based methods, starting from natural language inputs. We also describe a pretraining scheme for the index mention encoder by generating hard negative examples using existing knowledge bases. We show that DrKIT improves accuracy by 9 points on 3-hop questions in the MetaQA dataset, cutting the gap between text-based and KB-based state-of-the-art by 70%. DrKIT is also very efficient, processing upto 10x more queries per second than existing state-of-the-art QA systems.">
   
   
     
   <meta property="og:image" content="https://vidhishanair.github.io/img/icon-192.png">
   <meta property="og:locale" content="en-us">
   
-  <meta property="article:published_time" content="2018-05-27T00:00:00-04:00">
+  <meta property="article:published_time" content="2016-04-27T00:00:00-04:00">
   
-  <meta property="article:modified_time" content="2018-05-27T00:00:00-04:00">
-  
-
+  <meta property="article:modified_time" content="2016-04-27T00:00:00-04:00">
   
 
   
 
-  <title>Table to Text Generation | Vidhisha Balachandran</title>
+  
+
+  <title>Differentiable Reasoning over a Virtual Knowledge Base | Vidhisha Balachandran</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
@@ -275,7 +275,7 @@
   
   
 <div class="article-container pt-3">
-  <h1 itemprop="name">Table to Text Generation</h1>
+  <h1 itemprop="name">Differentiable Reasoning over a Virtual Knowledge Base</h1>
 
   
 
@@ -293,9 +293,9 @@
 
   <span class="article-date">
     
-    <meta content="2018-05-27 00:00:00 -0400 EDT" itemprop="datePublished">
-    <time datetime="2018-05-27 00:00:00 -0400 EDT" itemprop="dateModified">
-      May 27, 2018
+    <meta content="2016-04-27 00:00:00 -0400 EDT" itemprop="datePublished">
+    <time datetime="2016-04-27 00:00:00 -0400 EDT" itemprop="dateModified">
+      Apr 27, 2016
     </time>
   </span>
   <span itemscope itemprop="publisher" itemtype="http://schema.org/Person">
@@ -315,35 +315,35 @@
   <ul class="share">
     <li>
       <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=Table%20to%20Text%20Generation&amp;url=https%3a%2f%2fvidhishanair.github.io%2fproject%2ftabletotext%2f"
+         href="https://twitter.com/intent/tweet?text=Differentiable%20Reasoning%20over%20a%20Virtual%20Knowledge%20Base&amp;url=https%3a%2f%2fvidhishanair.github.io%2fproject%2fdiffindex%2f"
          target="_blank" rel="noopener">
         <i class="fab fa-twitter"></i>
       </a>
     </li>
     <li>
       <a class="facebook"
-         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fvidhishanair.github.io%2fproject%2ftabletotext%2f"
+         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fvidhishanair.github.io%2fproject%2fdiffindex%2f"
          target="_blank" rel="noopener">
         <i class="fab fa-facebook-f"></i>
       </a>
     </li>
     <li>
       <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fvidhishanair.github.io%2fproject%2ftabletotext%2f&amp;title=Table%20to%20Text%20Generation"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fvidhishanair.github.io%2fproject%2fdiffindex%2f&amp;title=Differentiable%20Reasoning%20over%20a%20Virtual%20Knowledge%20Base"
          target="_blank" rel="noopener">
         <i class="fab fa-linkedin-in"></i>
       </a>
     </li>
     <li>
       <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fvidhishanair.github.io%2fproject%2ftabletotext%2f&amp;title=Table%20to%20Text%20Generation"
+         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fvidhishanair.github.io%2fproject%2fdiffindex%2f&amp;title=Differentiable%20Reasoning%20over%20a%20Virtual%20Knowledge%20Base"
          target="_blank" rel="noopener">
         <i class="fab fa-weibo"></i>
       </a>
     </li>
     <li>
       <a class="email"
-         href="mailto:?subject=Table%20to%20Text%20Generation&amp;body=https%3a%2f%2fvidhishanair.github.io%2fproject%2ftabletotext%2f">
+         href="mailto:?subject=Differentiable%20Reasoning%20over%20a%20Virtual%20Knowledge%20Base&amp;body=https%3a%2f%2fvidhishanair.github.io%2fproject%2fdiffindex%2f">
         <i class="fas fa-envelope"></i>
       </a>
     </li>
@@ -389,7 +389,17 @@
 
 <div class="article-tags">
   
-  <a class="badge badge-light" href="/tags/table-to-text-generation/">Table to Text Generation</a>
+  <a class="badge badge-light" href="/tags/question-answering/">Question Answering</a>
+  
+  <a class="badge badge-light" href="/tags/multi-hop-qa/">Multi-Hop QA</a>
+  
+  <a class="badge badge-light" href="/tags/deep-learning/">Deep Learning</a>
+  
+  <a class="badge badge-light" href="/tags/knowledge-bases/">Knowledge Bases</a>
+  
+  <a class="badge badge-light" href="/tags/information-extraction/">Information Extraction</a>
+  
+  <a class="badge badge-light" href="/tags/data-structures-for-qa/">Data Structures for QA</a>
   
 </div>
 
@@ -483,6 +493,66 @@
       
       
       
+      
+        <h2>Publications</h2>
+        
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+  <a href="/publication/diffindex/" itemprop="name">Differentiable Reasoning over a Virtual Knowledge Base</a>
+  <div itemprop="author">
+    Bhuwan Dhingra, Manzhil Zaheer, Vidhisha Balachandran, Graham Neubig, Ruslan Salakhutdinov, William Cohen</div>
+  <p>
+
+
+
+
+
+
+  
+
+
+
+  
+    
+  
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://openreview.net/pdf?id=SJxstlHFPH" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/diffindex/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/diffindex/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+</p>
+</div>
+
+          
+        
       
 
       
