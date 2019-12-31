@@ -229,25 +229,6 @@
         
 
         <li class="nav-item">
-          <a class="nav-link" href="/#projects" data-target="#projects">
-            
-            <span>Projects</span>
-            
-          </a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        <li class="nav-item">
           <a class="nav-link" href="/files/cv.pdf" data-target="files/cv.pdf">
             
             <span>CV</span>
@@ -291,7 +272,7 @@
 
 
 
-<div class="row" itemprop="author" itemscope itemtype="http://schema.org/Person" itemref="person-email">
+<div class="row" itemprop="author" itemscope itemtype="http://schema.org/Person" itemref="person-email person-address">
   <div class="col-12 col-lg-4">
     <div id="profile">
 
@@ -869,159 +850,6 @@
     </div>
     
     
-  </div>
-</div>
-
-    </div>
-  </section>
-  
-
-  
-  
-  
-  <section id="projects" class="home-section">
-    <div class="container">
-      
-
-
-
-
-
-
-
-<div class="margin-auto">
-
-  <div class="center-text">
-    <h1 class="mt-0">Projects</h1>
-    
-  </div>
-  <div>
-
-
-    
-
-    
-
-    <div class="row  js-layout-row ">
-      
-        
-        
-        
-        
-          
-
-
-
-
-
-<div class="col-lg-12 project-item isotope-item " itemscope itemtype="http://schema.org/CreativeWork">
-  <i class="far fa-copy pub-icon" aria-hidden="true"></i>
-
-  <span class="project-title">
-    <a href="/project/entity/"  itemprop="url">Closed Domain Entity Recognition and Fraud Detection</a>
-  </span>
-
-  <p class="project-summary">Developing models for entity recognition and entity linking for closed domain data. Building classifiers to learn and predict cases of fraud in the insurance domain. Developing machine learning models for fraud detection in a low resource domain</p>
-</div>
-
-        
-      
-        
-        
-        
-          
-          
-        
-        
-          
-
-
-
-
-
-<div class="col-lg-12 project-item isotope-item js-id-Sequence-Generation js-id-Word-Embeddings" itemscope itemtype="http://schema.org/CreativeWork">
-  <i class="far fa-copy pub-icon" aria-hidden="true"></i>
-
-  <span class="project-title">
-    <a href="https://www.aclweb.org/anthology/W18-6122.pdf" target="_blank" rel="noopener" itemprop="url">Definition Generation</a>
-  </span>
-
-  <p class="project-summary">One way to test a person’s knowledge of a domain is to ask them to define domain-specific terms. Here, we investigate the task of automatically generating definitions of technical terms by reading text from the technical domain. Specifically, we learn definitions of software entities from a large corpus built from the user forum Stack Overflow. To model definitions, we train a language model and incorporate additional domain-specific information like word-word co-occurrence, and ontological category information. Our approach improves previous baselines by 2 BLEU points for the definition generation task. Our experiments also show the additional challenges associated with the task and the short-comings of language-model based architectures for definition generation.</p>
-</div>
-
-        
-      
-        
-        
-        
-          
-          
-        
-        
-          
-
-
-
-
-
-<div class="col-lg-12 project-item isotope-item js-id-Question-Answering js-id-Multi-Hop-QA js-id-Deep-Learning js-id-Knowledge-Bases js-id-Information-Extraction js-id-Data-Structures-for-QA" itemscope itemtype="http://schema.org/CreativeWork">
-  <i class="far fa-copy pub-icon" aria-hidden="true"></i>
-
-  <span class="project-title">
-    <a href="https://openreview.net/forum?id=SJxstlHFPH&amp;noteId;=Ilh9vDgaeg" target="_blank" rel="noopener" itemprop="url">Differentiable Reasoning over a Virtual Knowledge Base</a>
-  </span>
-
-  <p class="project-summary">We consider the task of answering complex multi-hop questions using a corpus as a virtual knowledge base (KB). In particular, we describe a neural module, DrKIT, that traverses textual data like a virtual KB, softly following paths of relations between mentions of entities in the corpus. At each step the operation uses a combination of sparse-matrix TFIDF indices and maximum inner product search (MIPS) on a special index of contextual representations. This module is differentiable, so the full system can be trained completely end-to-end using gradient based methods, starting from natural language inputs. We also describe a pretraining scheme for the index mention encoder by generating hard negative examples using existing knowledge bases. We show that DrKIT improves accuracy by 9 points on 3-hop questions in the MetaQA dataset, cutting the gap between text-based and KB-based state-of-the-art by 70%. DrKIT is also very efficient, processing upto 10x more queries per second than existing state-of-the-art QA systems.</p>
-</div>
-
-        
-      
-        
-        
-        
-        
-          
-
-
-
-
-
-<div class="col-lg-12 project-item isotope-item js-id-Text-Summarization js-id-Latent-Document-Structure" itemscope itemtype="http://schema.org/CreativeWork">
-  <i class="far fa-copy pub-icon" aria-hidden="true"></i>
-
-  <span class="project-title">
-    <a href="/project/summ/"  itemprop="url">Latent Structured Representations for Abstractive Summarization</a>
-  </span>
-
-  <p class="project-summary">While document summarization in the pre-neural era significantly relied on modeling the interpretable structure of a document, the state of the art neural LSTM-based models for single document summarization encode the document as a sequence of tokens, without modeling the inherent document structure. In this work, we explore inducing latent sentence dependency structures for the task of single-document summarization, with the dual goal of improving the summaries and learning interpretable structured document representations. We leverage structure-aware encoders which have shown to be useful for document classification tasks and adapt it for text summarization</p>
-</div>
-
-        
-      
-        
-        
-        
-        
-          
-
-
-
-
-
-<div class="col-lg-12 project-item isotope-item js-id-Table-to-Text-Generation" itemscope itemtype="http://schema.org/CreativeWork">
-  <i class="far fa-copy pub-icon" aria-hidden="true"></i>
-
-  <span class="project-title">
-    <a href="/project/tabletotext/"  itemprop="url">Table to Text Generation</a>
-  </span>
-
-  <p class="project-summary">Built a Seq2Seq model for generating biographies of people from Wikipedia Biography Tables. Used alignments between table and text phrases to improve biographies. Results were on par with the previous State of Art models</p>
-</div>
-
-        
-      
-    </div>
-
   </div>
 </div>
 
