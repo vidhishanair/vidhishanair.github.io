@@ -34,7 +34,7 @@
   
   
   
-  <meta name="theme-color" content="hsl(339, 90%, 68%)">
+  <meta name="theme-color" content="#2962ff">
   
 
   
@@ -56,7 +56,7 @@
       
       
         
-          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/dracula.min.css" crossorigin="anonymous">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css" crossorigin="anonymous">
         
       
     
@@ -69,7 +69,7 @@
 
   
   
-  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Montserrat:400,700|Roboto:400,400italic,700|Roboto+Mono">
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lato:400,700|Merriweather|Roboto+Mono">
   
 
   <link rel="stylesheet" href="/styles.css">
@@ -112,7 +112,7 @@
   <title>Deep Learning | Vidhisha Balachandran</title>
 
 </head>
-<body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" class="dark">
+<body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
   <aside class="search-results" id="search">
   <div class="container">
     <section class="search-header fixed-top">
@@ -192,7 +192,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link" href="/#publications_selected">
+          <a class="nav-link" href="/#publications">
             
             <span>Publications</span>
             
@@ -309,10 +309,10 @@
   
   
   <div>
-    <h2><a href="/project/internal-project/">Internal Project</a></h2>
+    <h2><a href="/project/diffindex/">Differentiable Reasoning over a Virtual Knowledge Base</a></h2>
     <div class="article-style">
       
-      An example of using the in-built project page.
+      We consider the task of answering complex multi-hop questions using a corpus as a virtual knowledge base (KB). In particular, we describe a neural module, DrKIT, that traverses textual data like a virtual KB, softly following paths of relations between mentions of entities in the corpus. At each step the operation uses a combination of sparse-matrix TFIDF indices and maximum inner product search (MIPS) on a special index of contextual representations. This module is differentiable, so the full system can be trained completely end-to-end using gradient based methods, starting from natural language inputs. We also describe a pretraining scheme for the index mention encoder by generating hard negative examples using existing knowledge bases. We show that DrKIT improves accuracy by 9 points on 3-hop questions in the MetaQA dataset, cutting the gap between text-based and KB-based state-of-the-art by 70%. DrKIT is also very efficient, processing upto 10x more queries per second than existing state-of-the-art QA systems.
       
     </div>
   </div>

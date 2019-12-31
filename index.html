@@ -374,7 +374,7 @@
 
 <h1 id="biography">Biography</h1>
 
-<p>I am a first year PhD student at the Language Technologies Institute at School of Computing Sciences, CMU. I am advised by Prof. Jaime Carbonell and Prof Yulia Tsvetkov. I was previously advised by Prof William Cohen during my masters at LTI.</p>
+<p>I am a first year PhD student at the Language Technologies Institute at School of Computing Sciences, CMU. I am advised by Prof. Jaime Carbonell and Prof. Yulia Tsvetkov. I completed my masters at LTI in 2019, advised by Prof. William Cohen. I also spent an amazing summer as a Research Intern with Google AI hosted by Dr William Cohen and Dr Michael Collins.</p>
 
 <p>My interests lie primarily in improving document representations using structural and knowledge biases. Previously, I have worked on incorporating domain beliefs and structural biases (dependency structures, story narrative chains, etc) as priors to improve generation.</p>
 
@@ -496,7 +496,13 @@
 
 
   
+    
+  
 
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://openreview.net/pdf?id=SJxstlHFPH" target="_blank" rel="noopener">
+  PDF
+</a>
 
 
 
@@ -508,6 +514,12 @@
 
 
 
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/diffindex/">
+    Project
+  </a>
+  
 
 
 
@@ -540,12 +552,6 @@
 
     
     
-      
-    
-    
-    <div class="article-style" itemprop="articleBody">
-      One way to test a person’s knowledge of a domain is to ask them to define domain-specific terms. Here, we investigate the task of …
-    </div>
     
 
     <div class="stream-meta article-metadata">
@@ -622,12 +628,6 @@
 
     
     
-      
-    
-    
-    <div class="article-style" itemprop="articleBody">
-      Hybrid clouds help in establishing a cost effective, reliable and scalable solution to limitations in traditional on-premise …
-    </div>
     
 
     <div class="stream-meta article-metadata">
@@ -648,7 +648,13 @@
 
 
   
+    
+  
 
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://ieeexplore.ieee.org/document/7079280" target="_blank" rel="noopener">
+  PDF
+</a>
 
 
 
@@ -930,6 +936,9 @@
         
         
         
+          
+          
+        
         
           
 
@@ -940,13 +949,43 @@
 
 
 
-<div class="col-12 col-md-6 col-lg-4 project-item isotope-item ">
+<div class="col-12 col-md-6 col-lg-4 project-item isotope-item js-id-Sequence-Generation js-id-Word-Embeddings">
   <div class="card">
     
     <div class="card-text">
-      <h4><a href="/project/defgen/" >Definition Generation</a></h4>
+      <h4><a href="https://www.aclweb.org/anthology/W18-6122.pdf" target="_blank" rel="noopener">Definition Generation</a></h4>
       <div class="card-desription">
-        <p>Developed language models to learn to generate definitions for entities in the software domain. Leveraged entity-entity co-occurrence and background ontology for improving the generated definitions by 2 BLEU. Built a dataset of software entity definitions from Stack Overflow</p>
+        <p>One way to test a person’s knowledge of a domain is to ask them to define domain-specific terms. Here, we investigate the task of automatically generating definitions of technical terms by reading text from the technical domain. Specifically, we learn definitions of software entities from a large corpus built from the user forum Stack Overflow. To model definitions, we train a language model and incorporate additional domain-specific information like word-word co-occurrence, and ontological category information. Our approach improves previous baselines by 2 BLEU points for the definition generation task. Our experiments also show the additional challenges associated with the task and the short-comings of language-model based architectures for definition generation.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+        
+      
+        
+        
+        
+          
+          
+        
+        
+          
+
+
+
+
+
+
+
+
+<div class="col-12 col-md-6 col-lg-4 project-item isotope-item js-id-Question-Answering js-id-Multi-Hop-QA js-id-Deep-Learning js-id-Knowledge-Bases js-id-Information-Extraction js-id-Data-Structures-for-QA">
+  <div class="card">
+    
+    <div class="card-text">
+      <h4><a href="https://openreview.net/forum?id=SJxstlHFPH&amp;noteId;=Ilh9vDgaeg" target="_blank" rel="noopener">Differentiable Reasoning over a Virtual Knowledge Base</a></h4>
+      <div class="card-desription">
+        <p>We consider the task of answering complex multi-hop questions using a corpus as a virtual knowledge base (KB). In particular, we describe a neural module, DrKIT, that traverses textual data like a virtual KB, softly following paths of relations between mentions of entities in the corpus. At each step the operation uses a combination of sparse-matrix TFIDF indices and maximum inner product search (MIPS) on a special index of contextual representations. This module is differentiable, so the full system can be trained completely end-to-end using gradient based methods, starting from natural language inputs. We also describe a pretraining scheme for the index mention encoder by generating hard negative examples using existing knowledge bases. We show that DrKIT improves accuracy by 9 points on 3-hop questions in the MetaQA dataset, cutting the gap between text-based and KB-based state-of-the-art by 70%. DrKIT is also very efficient, processing upto 10x more queries per second than existing state-of-the-art QA systems.</p>
       </div>
     </div>
   </div>
@@ -967,13 +1006,13 @@
 
 
 
-<div class="col-12 col-md-6 col-lg-4 project-item isotope-item ">
+<div class="col-12 col-md-6 col-lg-4 project-item isotope-item js-id-Text-Summarization js-id-Latent-Document-Structure">
   <div class="card">
     
     <div class="card-text">
       <h4><a href="/project/summ/" >Latent Structured Representations for Abstractive Summarization</a></h4>
       <div class="card-desription">
-        <p>Developing methods for latent document representation with a focus on structure. Evaluating latent representations using abstractive summarization with ROUGE metric. Extracting document level graphs from an intermediate latent structure</p>
+        <p>While document summarization in the pre-neural era significantly relied on modeling the interpretable structure of a document, the state of the art neural LSTM-based models for single document summarization encode the document as a sequence of tokens, without modeling the inherent document structure. In this work, we explore inducing latent sentence dependency structures for the task of single-document summarization, with the dual goal of improving the summaries and learning interpretable structured document representations. We leverage structure-aware encoders which have shown to be useful for document classification tasks and adapt it for text summarization</p>
       </div>
     </div>
   </div>
@@ -994,7 +1033,7 @@
 
 
 
-<div class="col-12 col-md-6 col-lg-4 project-item isotope-item ">
+<div class="col-12 col-md-6 col-lg-4 project-item isotope-item js-id-Table-to-Text-Generation">
   <div class="card">
     
     <div class="card-text">

@@ -86,6 +86,14 @@
     
     <url>
     
+      <loc>https://vidhishanair.github.io/project/diffindex/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://vidhishanair.github.io/project/summ/</loc>
       <lastmod>2016-04-27T00:00:00-04:00</lastmod>
     </url>
@@ -135,6 +143,24 @@
     
     <url>
     
+      <loc>https://vidhishanair.github.io/tags/data-structures-for-qa/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://vidhishanair.github.io/tags/deep-learning/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://vidhishanair.github.io/experience/</loc>
       <priority>0</priority>
     </url>
@@ -143,7 +169,61 @@
     
     <url>
     
+      <loc>https://vidhishanair.github.io/tags/information-extraction/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://vidhishanair.github.io/tags/knowledge-bases/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://vidhishanair.github.io/tags/latent-document-structure/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://vidhishanair.github.io/tags/multi-hop-qa/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://vidhishanair.github.io/project/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://vidhishanair.github.io/tags/question-answering/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://vidhishanair.github.io/tags/sequence-generation/</loc>
       <lastmod>2016-04-27T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
@@ -167,6 +247,15 @@
     
     <url>
     
+      <loc>https://vidhishanair.github.io/tags/table-to-text-generation/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://vidhishanair.github.io/tags/</loc>
       <lastmod>2018-01-13T00:00:00-05:00</lastmod>
       <priority>0</priority>
@@ -176,8 +265,26 @@
     
     <url>
     
+      <loc>https://vidhishanair.github.io/tags/text-summarization/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://vidhishanair.github.io/</loc>
       <lastmod>2017-10-15T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://vidhishanair.github.io/tags/word-embeddings/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
