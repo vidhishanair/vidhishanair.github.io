@@ -18,7 +18,7 @@
       <pubDate>Fri, 12 Oct 2018 00:00:00 -0500</pubDate>
       
       <guid>https://vidhishanair.github.io/project/structsum/</guid>
-      <description></description>
+      <description>Traditional preneural approaches to single document summarization relied on modeling the intermediate structure of a document before generating the summary. In contrast, the current state of the art neural summarization models do not preserve any intermediate structure, resorting to encoding the document as a sequence of tokens. The goal of this work is two-fold: to improve the quality of generated summaries and to learn interpretable document representations for summarization. To this end, we propose incorporating latent and explicit sentence dependencies into single-document summarization models.</description>
     </item>
     
   </channel>
