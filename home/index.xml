@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Vidhisha Balachandran 2018</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="https://vidhishanair.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>https://vidhishanair.github.io/home/hero_carousel/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 -0400</pubDate>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 -0500</pubDate>
       
       <guid>https://vidhishanair.github.io/home/hero_carousel/</guid>
       <description></description>
@@ -24,17 +24,17 @@
     <item>
       <title></title>
       <link>https://vidhishanair.github.io/home/about/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
       
       <guid>https://vidhishanair.github.io/home/about/</guid>
-      <description>Biography I am a first year PhD student at the Language Technologies Institute at School of Computing Sciences, CMU. I am advised by Prof. Jaime Carbonell and Prof. Yulia Tsvetkov. I completed my masters at LTI in 2019, advised by Prof. William Cohen. I also spent an amazing summer as a Research Intern with Google AI hosted by Dr William Cohen and Dr Michael Collins.
-My interests lie primarily in improving document representations using structural and knowledge biases.</description>
+      <description>Biography I am a second year PhD student at the Language Technologies Institute in Carnegie Mellon University. I am advised by Prof. Yulia Tsvetkov (also previously Prof. Jaime Carbonell). I completed my masters at LTI in 2019, advised by Prof. William Cohen.
+I&amp;rsquo;ve spent two amazing summers as a Research Intern with Google. I was hosted by Niki Parmar and Dr Ashish Vaswani at Google Brain in 2020 and by Dr William Cohen and Dr Michael Collins at Google AT in 2019.</description>
     </item>
     
     <item>
       <title>Publications</title>
       <link>https://vidhishanair.github.io/home/publications/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
       
       <guid>https://vidhishanair.github.io/home/publications/</guid>
       <description></description>
@@ -52,7 +52,7 @@ My interests lie primarily in improving document representations using structura
     <item>
       <title>Selected Publications</title>
       <link>https://vidhishanair.github.io/home/publications_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
       
       <guid>https://vidhishanair.github.io/home/publications_selected/</guid>
       <description></description>
@@ -61,7 +61,7 @@ My interests lie primarily in improving document representations using structura
     <item>
       <title>Selected Talks</title>
       <link>https://vidhishanair.github.io/home/talks_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
       
       <guid>https://vidhishanair.github.io/home/talks_selected/</guid>
       <description></description>
@@ -70,7 +70,7 @@ My interests lie primarily in improving document representations using structura
     <item>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://vidhishanair.github.io/home/talks/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
       
       <guid>https://vidhishanair.github.io/home/talks/</guid>
       <description></description>
@@ -79,7 +79,7 @@ My interests lie primarily in improving document representations using structura
     <item>
       <title>Recent Posts</title>
       <link>https://vidhishanair.github.io/home/posts/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
       
       <guid>https://vidhishanair.github.io/home/posts/</guid>
       <description></description>
@@ -88,7 +88,7 @@ My interests lie primarily in improving document representations using structura
     <item>
       <title>Projects</title>
       <link>https://vidhishanair.github.io/home/projects/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
       
       <guid>https://vidhishanair.github.io/home/projects/</guid>
       <description></description>
@@ -97,7 +97,7 @@ My interests lie primarily in improving document representations using structura
     <item>
       <title>Teaching</title>
       <link>https://vidhishanair.github.io/home/teaching/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
       
       <guid>https://vidhishanair.github.io/home/teaching/</guid>
       <description></description>
@@ -106,7 +106,7 @@ My interests lie primarily in improving document representations using structura
     <item>
       <title>Tags</title>
       <link>https://vidhishanair.github.io/home/tags/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 -0500</pubDate>
       
       <guid>https://vidhishanair.github.io/home/tags/</guid>
       <description></description>

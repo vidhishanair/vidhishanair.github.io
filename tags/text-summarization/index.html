@@ -102,7 +102,7 @@
   <meta property="og:image" content="https://vidhishanair.github.io/img/icon-192.png">
   <meta property="og:locale" content="en-us">
   
-  <meta property="og:updated_time" content="2018-10-12T00:00:00-04:00">
+  <meta property="og:updated_time" content="2018-10-12T00:00:00-05:00">
   
 
   
@@ -290,10 +290,10 @@
   
   
   <div>
-    <h2><a href="/project/summ/">Latent Structured Representations for Abstractive Summarization</a></h2>
+    <h2><a href="/project/structsum/">StructSum: Incorporating Latent and Explicit Sentence Dependencies for Single Document Summarization</a></h2>
     <div class="article-style">
       
-      While document summarization in the pre-neural era significantly relied on modeling the interpretable structure of a document, the state of the art neural LSTM-based models for single document summarization encode the document as a sequence of tokens, without modeling the inherent document structure. In this work, we explore inducing latent sentence dependency structures for the task of single-document summarization, with the dual goal of improving the summaries and learning interpretable structured document representations. We leverage structure-aware encoders which have shown to be useful for document classification tasks and adapt it for text summarization
+      Traditional preneural approaches to single document summarization relied on modeling the intermediate structure of a document before generating the summary. In contrast, the current state of the art neural summarization models do not preserve any intermediate structure, resorting to encoding the document as a sequence of tokens. The goal of this work is two-fold: to improve the quality of generated summaries and to learn interpretable document representations for summarization. To this end, we propose incorporating latent and explicit sentence dependencies into single-document summarization models. We use structure-aware encoders to induce latent sentence relations, and inject explicit coreferring mention graph across sentences to incorporate explicit structure. On the CNN/DM dataset, our model outperforms standard baselines and provides intermediate latent structures for analysis. We present an extensive analysis of our summaries and show that modeling document structure reduces copying long sequences and incorporates richer content from the source document while maintaining comparable summary lengths and an increased degree of abstraction.
       
     </div>
   </div>

@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Vidhisha Balachandran 2018</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0500</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
@@ -22,7 +22,7 @@
     <item>
       <title>Differentiable Reasoning over a Virtual Knowledge Base</title>
       <link>https://vidhishanair.github.io/project/vkb/</link>
-      <pubDate>Fri, 13 Dec 2019 00:00:00 -0500</pubDate>
+      <pubDate>Fri, 13 Dec 2019 00:00:00 -0600</pubDate>
       
       <guid>https://vidhishanair.github.io/project/vkb/</guid>
       <description>&lt;p&gt;We consider the task of answering complex multi-hop questions using a corpus as a virtual knowledge base (KB). In particular, we describe a neural module, DrKIT, that traverses textual data like a virtual KB, softly following paths of relations between mentions of entities in the corpus. At each step the operation uses a combination of sparse-matrix TFIDF indices and maximum inner product search (MIPS) on a special index of contextual representations. This module is differentiable, so the full system can be trained completely end-to-end using gradient based methods, starting from natural language inputs. We also describe a pretraining scheme for the index mention encoder by generating hard negative examples using existing knowledge bases. We show that DrKIT improves accuracy by 9 points on 3-hop questions in the MetaQA dataset, cutting the gap between text-based and KB-based state-of-the-art by 70%. DrKIT is also very efficient, processing upto 10x more queries per second than existing state-of-the-art QA systems.&lt;/p&gt;
@@ -32,7 +32,7 @@
     <item>
       <title>Closed Domain Entity Recognition and Fraud Detection</title>
       <link>https://vidhishanair.github.io/project/entity/</link>
-      <pubDate>Sat, 02 Mar 2019 00:00:00 -0500</pubDate>
+      <pubDate>Sat, 02 Mar 2019 00:00:00 -0600</pubDate>
       
       <guid>https://vidhishanair.github.io/project/entity/</guid>
       <description></description>
@@ -41,7 +41,7 @@
     <item>
       <title>Differentiable Reasoning over a Virtual Knowledge Base</title>
       <link>https://vidhishanair.github.io/publication/diffindex/</link>
-      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0500</pubDate>
       
       <guid>https://vidhishanair.github.io/publication/diffindex/</guid>
       <description></description>
@@ -50,25 +50,34 @@
     <item>
       <title>Learning to Define Terms in the Software Domain</title>
       <link>https://vidhishanair.github.io/publication/defgen/</link>
-      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0500</pubDate>
       
       <guid>https://vidhishanair.github.io/publication/defgen/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Latent Structured Representations for Abstractive Summarization</title>
-      <link>https://vidhishanair.github.io/project/summ/</link>
-      <pubDate>Fri, 12 Oct 2018 00:00:00 -0400</pubDate>
+      <title>StructSum: Incorporating Latent and Explicit Sentence Dependencies for Single Document Summarization</title>
+      <link>https://vidhishanair.github.io/publication/structsum/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0500</pubDate>
       
-      <guid>https://vidhishanair.github.io/project/summ/</guid>
+      <guid>https://vidhishanair.github.io/publication/structsum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>StructSum: Incorporating Latent and Explicit Sentence Dependencies for Single Document Summarization</title>
+      <link>https://vidhishanair.github.io/project/structsum/</link>
+      <pubDate>Fri, 12 Oct 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://vidhishanair.github.io/project/structsum/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Example Page</title>
       <link>https://vidhishanair.github.io/tutorial/example/</link>
-      <pubDate>Sun, 09 Sep 2018 00:00:00 -0400</pubDate>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 -0500</pubDate>
       
       <guid>https://vidhishanair.github.io/tutorial/example/</guid>
       <description>
@@ -88,7 +97,7 @@
     <item>
       <title>Table to Text Generation</title>
       <link>https://vidhishanair.github.io/project/tabletotext/</link>
-      <pubDate>Sun, 27 May 2018 00:00:00 -0400</pubDate>
+      <pubDate>Sun, 27 May 2018 00:00:00 -0500</pubDate>
       
       <guid>https://vidhishanair.github.io/project/tabletotext/</guid>
       <description></description>
@@ -97,7 +106,7 @@
     <item>
       <title>Definition Generation</title>
       <link>https://vidhishanair.github.io/project/defgen/</link>
-      <pubDate>Mon, 04 Dec 2017 00:00:00 -0500</pubDate>
+      <pubDate>Mon, 04 Dec 2017 00:00:00 -0600</pubDate>
       
       <guid>https://vidhishanair.github.io/project/defgen/</guid>
       <description>&lt;p&gt;One way to test a person’s knowledge of a domain is to ask them to define domain-specific terms. Here, we investigate the task of automatically generating definitions of technical terms by reading text from the technical domain. Specifically, we learn definitions of software entities from a large corpus built from the user forum Stack Overflow. To model definitions, we train a language model and incorporate additional domain-specific information like word-word co-occurrence, and ontological category information. Our approach improves previous baselines by 2 BLEU points for the definition generation task. Our experiments also show the additional challenges associated with the task and the short-comings of language-model based architectures for definition generation.&lt;/p&gt;
@@ -107,7 +116,7 @@
     <item>
       <title>Example Talk</title>
       <link>https://vidhishanair.github.io/talk/example/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
       
       <guid>https://vidhishanair.github.io/talk/example/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
@@ -131,7 +140,7 @@
     <item>
       <title>Academic: the website designer for Hugo</title>
       <link>https://vidhishanair.github.io/post/getting-started/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
       
       <guid>https://vidhishanair.github.io/post/getting-started/</guid>
       <description>
@@ -503,7 +512,7 @@ git submodule update --init --recursive
     <item>
       <title>Simple Cloud Federation</title>
       <link>https://vidhishanair.github.io/publication/cloud/</link>
-      <pubDate>Tue, 01 Jul 2014 00:00:00 -0400</pubDate>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 -0500</pubDate>
       
       <guid>https://vidhishanair.github.io/publication/cloud/</guid>
       <description></description>
