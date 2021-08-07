@@ -15,7 +15,7 @@
   
     
   
-  <meta name="description" content="Traditional preneural approaches to single document summarization relied on modeling the intermediate structure of a document before generating the summary. In contrast, the current state of the art neural summarization models do not preserve any intermediate structure, resorting to encoding the document as a sequence of tokens. The goal of this work is two-fold: to improve the quality of generated summaries and to learn interpretable document representations for summarization. To this end, we propose incorporating latent and explicit sentence dependencies into single-document summarization models.">
+  <meta name="description" content="Abstractive text summarization aims at compressing the information of a long source document into a rephrased, condensed summary. Despite advances in modeling techniques, abstractive summarization models still suffer from several key challenges: (i) layout bias: they overfit to the style of training corpora; (ii) limited abstractiveness: they are optimized to copying n-grams from the source rather than generating novel abstractive summaries; (iii) lack of transparency: they are not interpretable. In this work, we propose a framework based on document-level structure induction for summarization to address these challenges.">
 
   
   <link rel="alternate" hreflang="en-us" href="https://vidhishanair.github.io/project/structsum/">
@@ -92,8 +92,8 @@
   
   <meta property="og:site_name" content="Vidhisha Balachandran">
   <meta property="og:url" content="https://vidhishanair.github.io/project/structsum/">
-  <meta property="og:title" content="StructSum: Incorporating Latent and Explicit Sentence Dependencies for Single Document Summarization | Vidhisha Balachandran">
-  <meta property="og:description" content="Traditional preneural approaches to single document summarization relied on modeling the intermediate structure of a document before generating the summary. In contrast, the current state of the art neural summarization models do not preserve any intermediate structure, resorting to encoding the document as a sequence of tokens. The goal of this work is two-fold: to improve the quality of generated summaries and to learn interpretable document representations for summarization. To this end, we propose incorporating latent and explicit sentence dependencies into single-document summarization models.">
+  <meta property="og:title" content="StructSum: Summarization via Structured Representations | Vidhisha Balachandran">
+  <meta property="og:description" content="Abstractive text summarization aims at compressing the information of a long source document into a rephrased, condensed summary. Despite advances in modeling techniques, abstractive summarization models still suffer from several key challenges: (i) layout bias: they overfit to the style of training corpora; (ii) limited abstractiveness: they are optimized to copying n-grams from the source rather than generating novel abstractive summaries; (iii) lack of transparency: they are not interpretable. In this work, we propose a framework based on document-level structure induction for summarization to address these challenges.">
   
   
     
@@ -109,7 +109,7 @@
 
   
 
-  <title>StructSum: Incorporating Latent and Explicit Sentence Dependencies for Single Document Summarization | Vidhisha Balachandran</title>
+  <title>StructSum: Summarization via Structured Representations | Vidhisha Balachandran</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
@@ -275,7 +275,7 @@
   
   
 <div class="article-container pt-3">
-  <h1 itemprop="name">StructSum: Incorporating Latent and Explicit Sentence Dependencies for Single Document Summarization</h1>
+  <h1 itemprop="name">StructSum: Summarization via Structured Representations</h1>
 
   
 
@@ -315,7 +315,7 @@
   <ul class="share">
     <li>
       <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=StructSum%3a%20Incorporating%20Latent%20and%20Explicit%20Sentence%20Dependencies%20for%20Single%20Document%20Summarization&amp;url=https%3a%2f%2fvidhishanair.github.io%2fproject%2fstructsum%2f"
+         href="https://twitter.com/intent/tweet?text=StructSum%3a%20Summarization%20via%20Structured%20Representations&amp;url=https%3a%2f%2fvidhishanair.github.io%2fproject%2fstructsum%2f"
          target="_blank" rel="noopener">
         <i class="fab fa-twitter"></i>
       </a>
@@ -329,21 +329,21 @@
     </li>
     <li>
       <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fvidhishanair.github.io%2fproject%2fstructsum%2f&amp;title=StructSum%3a%20Incorporating%20Latent%20and%20Explicit%20Sentence%20Dependencies%20for%20Single%20Document%20Summarization"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fvidhishanair.github.io%2fproject%2fstructsum%2f&amp;title=StructSum%3a%20Summarization%20via%20Structured%20Representations"
          target="_blank" rel="noopener">
         <i class="fab fa-linkedin-in"></i>
       </a>
     </li>
     <li>
       <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fvidhishanair.github.io%2fproject%2fstructsum%2f&amp;title=StructSum%3a%20Incorporating%20Latent%20and%20Explicit%20Sentence%20Dependencies%20for%20Single%20Document%20Summarization"
+         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fvidhishanair.github.io%2fproject%2fstructsum%2f&amp;title=StructSum%3a%20Summarization%20via%20Structured%20Representations"
          target="_blank" rel="noopener">
         <i class="fab fa-weibo"></i>
       </a>
     </li>
     <li>
       <a class="email"
-         href="mailto:?subject=StructSum%3a%20Incorporating%20Latent%20and%20Explicit%20Sentence%20Dependencies%20for%20Single%20Document%20Summarization&amp;body=https%3a%2f%2fvidhishanair.github.io%2fproject%2fstructsum%2f">
+         href="mailto:?subject=StructSum%3a%20Summarization%20via%20Structured%20Representations&amp;body=https%3a%2f%2fvidhishanair.github.io%2fproject%2fstructsum%2f">
         <i class="fas fa-envelope"></i>
       </a>
     </li>
@@ -381,7 +381,7 @@
   <div class="article-container">
 
     <div class="article-style" itemprop="articleBody">
-      <p>Traditional preneural approaches to single document summarization relied on modeling the intermediate structure of a document before generating the summary. In contrast, the current state of the art neural summarization models do not preserve any intermediate structure, resorting to encoding the document as a sequence of tokens. The goal of this work is two-fold: to improve the quality of generated summaries and to learn interpretable document representations for summarization. To this end, we propose incorporating latent and explicit sentence dependencies into single-document summarization models. We use structure-aware encoders to induce latent sentence relations, and inject explicit coreferring mention graph across sentences to incorporate explicit structure. On the CNN/DM dataset, our model outperforms standard baselines and provides intermediate latent structures for analysis. We present an extensive analysis of our summaries and show that modeling document structure reduces copying long sequences and incorporates richer content from the source document while maintaining comparable summary lengths and an increased degree of abstraction.</p>
+      <p>Abstractive text summarization aims at compressing the information of a long source document into a rephrased, condensed summary. Despite advances in modeling techniques, abstractive summarization models still suffer from several key challenges: (i) layout bias: they overfit to the style of training corpora; (ii) limited abstractiveness: they are optimized to copying n-grams from the source rather than generating novel abstractive summaries; (iii) lack of transparency: they are not interpretable. In this work, we propose a framework based on document-level structure induction for summarization to address these challenges. To this end, we propose incorporating latent and explicit dependencies across sentences in the source document into end-to-end single-document summarization models. Our framework complements standard encoder-decoder summarization models by augmenting them with rich structure-aware document representations based on implicitly learned (latent) structures and externally-derived linguistic (explicit) structures. We show that our summarization framework, trained on the CNN/DM dataset, improves the coverage of content in the source documents, generates more abstractive summaries by generating more novel n-grams, and incorporates interpretable sentence-level structures, while performing on par with standard baselines.</p>
 
     </div>
 
@@ -494,7 +494,7 @@
           
             <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="/publication/structsum/" itemprop="name">StructSum: Incorporating Latent and Explicit Sentence Dependencies for Single Document Summarization</a>
+  <a href="/publication/structsum/" itemprop="name">StructSum: Summarization via Structured Representations</a>
   <div itemprop="author">
     Vidhisha Balachandran, Artidoro Pagnoni, Jay Yoon Lee, Dheeraj Rajagopal, Jaime Carbonell, Yulia Tsvetkov</div>
   <p>
