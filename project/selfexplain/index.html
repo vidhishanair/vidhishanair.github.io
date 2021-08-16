@@ -18,7 +18,7 @@
   <meta name="description" content="Abstractive text summarization aims at compressing the information of a long source document into a rephrased, condensed summary. Despite advances in modeling techniques, abstractive summarization models still suffer from several key challenges: (i) layout bias: they overfit to the style of training corpora; (ii) limited abstractiveness: they are optimized to copying n-grams from the source rather than generating novel abstractive summaries; (iii) lack of transparency: they are not interpretable. In this work, we propose a framework based on document-level structure induction for summarization to address these challenges.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://vidhishanair.github.io/project/structsum/">
+  <link rel="alternate" hreflang="en-us" href="https://vidhishanair.github.io/project/selfexplain/">
 
   
 
@@ -86,13 +86,13 @@
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://vidhishanair.github.io/project/structsum/">
+  <link rel="canonical" href="https://vidhishanair.github.io/project/selfexplain/">
 
   <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="Vidhisha Balachandran">
-  <meta property="og:url" content="https://vidhishanair.github.io/project/structsum/">
-  <meta property="og:title" content="StructSum: Summarization via Structured Representations | Vidhisha Balachandran">
+  <meta property="og:url" content="https://vidhishanair.github.io/project/selfexplain/">
+  <meta property="og:title" content="SelfExplain: A Self-Explaining Architecture for Neural Text Classifiers | Vidhisha Balachandran">
   <meta property="og:description" content="Abstractive text summarization aims at compressing the information of a long source document into a rephrased, condensed summary. Despite advances in modeling techniques, abstractive summarization models still suffer from several key challenges: (i) layout bias: they overfit to the style of training corpora; (ii) limited abstractiveness: they are optimized to copying n-grams from the source rather than generating novel abstractive summaries; (iii) lack of transparency: they are not interpretable. In this work, we propose a framework based on document-level structure induction for summarization to address these challenges.">
   
   
@@ -100,16 +100,16 @@
   <meta property="og:image" content="https://vidhishanair.github.io/img/icon-192.png">
   <meta property="og:locale" content="en-us">
   
-  <meta property="article:published_time" content="2018-10-12T00:00:00-04:00">
+  <meta property="article:published_time" content="2021-03-23T00:00:00-04:00">
   
-  <meta property="article:modified_time" content="2018-10-12T00:00:00-04:00">
-  
-
+  <meta property="article:modified_time" content="2021-03-23T00:00:00-04:00">
   
 
   
 
-  <title>StructSum: Summarization via Structured Representations | Vidhisha Balachandran</title>
+  
+
+  <title>SelfExplain: A Self-Explaining Architecture for Neural Text Classifiers | Vidhisha Balachandran</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
@@ -275,7 +275,7 @@
   
   
 <div class="article-container pt-3">
-  <h1 itemprop="name">StructSum: Summarization via Structured Representations</h1>
+  <h1 itemprop="name">SelfExplain: A Self-Explaining Architecture for Neural Text Classifiers</h1>
 
   
 
@@ -293,9 +293,9 @@
 
   <span class="article-date">
     
-    <meta content="2018-10-12 00:00:00 -0400 EDT" itemprop="datePublished">
-    <time datetime="2018-10-12 00:00:00 -0400 EDT" itemprop="dateModified">
-      Oct 12, 2018
+    <meta content="2021-03-23 00:00:00 -0400 EDT" itemprop="datePublished">
+    <time datetime="2021-03-23 00:00:00 -0400 EDT" itemprop="dateModified">
+      Mar 23, 2021
     </time>
   </span>
   <span itemscope itemprop="publisher" itemtype="http://schema.org/Person">
@@ -315,35 +315,35 @@
   <ul class="share">
     <li>
       <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=StructSum%3a%20Summarization%20via%20Structured%20Representations&amp;url=https%3a%2f%2fvidhishanair.github.io%2fproject%2fstructsum%2f"
+         href="https://twitter.com/intent/tweet?text=SelfExplain%3a%20A%20Self-Explaining%20Architecture%20for%20Neural%20Text%20Classifiers&amp;url=https%3a%2f%2fvidhishanair.github.io%2fproject%2fselfexplain%2f"
          target="_blank" rel="noopener">
         <i class="fab fa-twitter"></i>
       </a>
     </li>
     <li>
       <a class="facebook"
-         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fvidhishanair.github.io%2fproject%2fstructsum%2f"
+         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fvidhishanair.github.io%2fproject%2fselfexplain%2f"
          target="_blank" rel="noopener">
         <i class="fab fa-facebook-f"></i>
       </a>
     </li>
     <li>
       <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fvidhishanair.github.io%2fproject%2fstructsum%2f&amp;title=StructSum%3a%20Summarization%20via%20Structured%20Representations"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fvidhishanair.github.io%2fproject%2fselfexplain%2f&amp;title=SelfExplain%3a%20A%20Self-Explaining%20Architecture%20for%20Neural%20Text%20Classifiers"
          target="_blank" rel="noopener">
         <i class="fab fa-linkedin-in"></i>
       </a>
     </li>
     <li>
       <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fvidhishanair.github.io%2fproject%2fstructsum%2f&amp;title=StructSum%3a%20Summarization%20via%20Structured%20Representations"
+         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fvidhishanair.github.io%2fproject%2fselfexplain%2f&amp;title=SelfExplain%3a%20A%20Self-Explaining%20Architecture%20for%20Neural%20Text%20Classifiers"
          target="_blank" rel="noopener">
         <i class="fab fa-weibo"></i>
       </a>
     </li>
     <li>
       <a class="email"
-         href="mailto:?subject=StructSum%3a%20Summarization%20via%20Structured%20Representations&amp;body=https%3a%2f%2fvidhishanair.github.io%2fproject%2fstructsum%2f">
+         href="mailto:?subject=SelfExplain%3a%20A%20Self-Explaining%20Architecture%20for%20Neural%20Text%20Classifiers&amp;body=https%3a%2f%2fvidhishanair.github.io%2fproject%2fselfexplain%2f">
         <i class="fas fa-envelope"></i>
       </a>
     </li>
@@ -494,9 +494,9 @@
           
             <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="/publication/structsum/" itemprop="name">StructSum: Summarization via Structured Representations</a>
+  <a href="/publication/selfexplain/" itemprop="name">SelfExplain: A Self-Explaining Architecture for Neural Text Classifiers</a>
   <div itemprop="author">
-    Vidhisha Balachandran, Artidoro Pagnoni, Jay Yoon Lee, Dheeraj Rajagopal, Jaime Carbonell, Yulia Tsvetkov</div>
+    Dheeraj Rajagopal, Vidhisha Balachandran, Eduard Hovy, Yulia Tsvetkov</div>
   <p>
 
 
@@ -513,21 +513,21 @@
   
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.aclweb.org/anthology/2021.eacl-main.220" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://arxiv.org/abs/2103.12279" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
 <button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
-        data-filename="/publication/structsum/cite.bib">
+        data-filename="/publication/selfexplain/cite.bib">
   Cite
 </button>
 
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/vidhishanair/structured_summarizer" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/dheerajrajagopal/SelfExplain" target="_blank" rel="noopener">
   Code
 </a>
 
@@ -535,7 +535,7 @@
 
 
   
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/structsum/">
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/selfexplain/">
     Project
   </a>
   
