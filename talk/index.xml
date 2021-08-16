@@ -13,6 +13,17 @@
     
     
     <item>
+      <title>On the Transparency and Reliability of Automatic Summarization</title>
+      <link>https://vidhishanair.github.io/talk/transp_summ/</link>
+      <pubDate>Fri, 30 Apr 2021 00:00:00 -0400</pubDate>
+      
+      <guid>https://vidhishanair.github.io/talk/transp_summ/</guid>
+      <description>Click on the Slides button above to view the built-in slides feature.
+ Slides can be added in a few ways:
+ Create slides using Academic&amp;rsquo;s Slides feature and link using url_slides parameter in the front matter of the talk file Upload an existing slide deck to static/ and link using url_slides parameter in the front matter of the talk file Embed your slides (e.g. Google Slides) or presentation video on this page using shortcodes.</description>
+    </item>
+    
+    <item>
       <title>Example Talk</title>
       <link>https://vidhishanair.github.io/talk/example/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
