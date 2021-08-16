@@ -6,6 +6,46 @@
     
     <url>
     
+      <loc>https://vidhishanair.github.io/project/fatnq/</loc>
+      <lastmod>2021-06-10T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://vidhishanair.github.io/publication/fatnq/</loc>
+      <lastmod>2021-06-10T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://vidhishanair.github.io/project/frank/</loc>
+      <lastmod>2021-04-27T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://vidhishanair.github.io/publication/frank/</loc>
+      <lastmod>2021-04-27T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://vidhishanair.github.io/project/realm/</loc>
+      <lastmod>2021-04-18T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://vidhishanair.github.io/publication/realm/</loc>
       <lastmod>2021-04-18T00:00:00-04:00</lastmod>
     </url>
@@ -24,6 +64,14 @@
     
       <loc>https://vidhishanair.github.io/publication/selfexplain/</loc>
       <lastmod>2021-03-23T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://vidhishanair.github.io/project/dialograph/</loc>
+      <lastmod>2020-09-28T00:00:00-04:00</lastmod>
     </url>
     
   
@@ -201,7 +249,34 @@
     
     <url>
     
+      <loc>https://vidhishanair.github.io/tags/evaluation/</loc>
+      <lastmod>2021-04-18T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://vidhishanair.github.io/experience/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://vidhishanair.github.io/tags/factuality/</loc>
+      <lastmod>2021-04-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://vidhishanair.github.io/tags/graph-neural-networks/</loc>
+      <lastmod>2020-09-28T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -218,7 +293,16 @@
     
     <url>
     
-      <loc>https://vidhishanair.github.io/tags/interpretable-structures/</loc>
+      <loc>https://vidhishanair.github.io/tags/interpretability/</loc>
+      <lastmod>2020-09-28T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://vidhishanair.github.io/tags/interpretability-by-design/</loc>
       <lastmod>2021-03-23T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
@@ -227,7 +311,18 @@
     
     <url>
     
-      <loc>https://vidhishanair.github.io/publication/fatnq/</loc>
+      <loc>https://vidhishanair.github.io/tags/interpretable-structures/</loc>
+      <lastmod>2018-10-12T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://vidhishanair.github.io/tags/kbqa/</loc>
+      <lastmod>2021-06-10T00:00:00-04:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -244,7 +339,16 @@
     <url>
     
       <loc>https://vidhishanair.github.io/tags/latent-explicit-document-structure/</loc>
-      <lastmod>2021-03-23T00:00:00-04:00</lastmod>
+      <lastmod>2018-10-12T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://vidhishanair.github.io/tags/metrics/</loc>
+      <lastmod>2021-04-27T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -261,8 +365,35 @@
     
     <url>
     
+      <loc>https://vidhishanair.github.io/tags/natural-questions/</loc>
+      <lastmod>2021-06-10T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://vidhishanair.github.io/tags/negotiation-dialog/</loc>
+      <lastmod>2020-09-28T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://vidhishanair.github.io/tags/open-domain-qa/</loc>
+      <lastmod>2021-04-18T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://vidhishanair.github.io/project/</loc>
-      <lastmod>2021-03-23T00:00:00-04:00</lastmod>
+      <lastmod>2021-06-10T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -272,6 +403,24 @@
     
       <loc>https://vidhishanair.github.io/tags/question-answering/</loc>
       <lastmod>2019-12-13T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://vidhishanair.github.io/tags/realm/</loc>
+      <lastmod>2021-04-18T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://vidhishanair.github.io/tags/self-explaining-architectures/</loc>
+      <lastmod>2021-03-23T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -303,6 +452,15 @@
     
     <url>
     
+      <loc>https://vidhishanair.github.io/tags/summarization/</loc>
+      <lastmod>2021-04-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://vidhishanair.github.io/tags/table-to-text-generation/</loc>
       <lastmod>2018-05-27T00:00:00-04:00</lastmod>
       <priority>0</priority>
@@ -321,7 +479,7 @@
     
     <url>
     
-      <loc>https://vidhishanair.github.io/tags/text-summarization/</loc>
+      <loc>https://vidhishanair.github.io/tags/text-classification/</loc>
       <lastmod>2021-03-23T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
@@ -330,7 +488,18 @@
     
     <url>
     
-      <loc>https://vidhishanair.github.io/publication/frank/</loc>
+      <loc>https://vidhishanair.github.io/tags/text-summarization/</loc>
+      <lastmod>2018-10-12T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://vidhishanair.github.io/tags/typology-framework/</loc>
+      <lastmod>2021-04-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
     </url>
     
   

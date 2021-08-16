@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Text Classification on Vidhisha Balachandran</title>
+    <link>https://vidhishanair.github.io/tags/text-classification/</link>
+    <description>Recent content in Text Classification on Vidhisha Balachandran</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Vidhisha Balachandran 2018</copyright>
+    <lastBuildDate>Tue, 23 Mar 2021 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://vidhishanair.github.io/tags/text-classification/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SelfExplain: A Self-Explaining Architecture for Neural Text Classifiers</title>
+      <link>https://vidhishanair.github.io/project/selfexplain/</link>
+      <pubDate>Tue, 23 Mar 2021 00:00:00 -0400</pubDate>
+      
+      <guid>https://vidhishanair.github.io/project/selfexplain/</guid>
+      <description>We introduce SelfExplain, a novel self-explaining framework that explains a text classifier&amp;rsquo;s predictions using phrase-based concepts. SelfExplain augments existing neural classifiers by adding (1) a globally interpretable layer that identifies the most influential concepts in the training set for a given sample and (2) a locally interpretable layer that quantifies the contribution of each local input concept by computing a relevance score relative to the predicted label. Experiments across five text-classification datasets show that SelfExplain facilitates interpretability without sacrificing performance.</description>
+    </item>
+    
+  </channel>
+</rss>

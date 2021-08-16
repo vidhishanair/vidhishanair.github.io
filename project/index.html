@@ -102,7 +102,7 @@
   <meta property="og:image" content="https://vidhishanair.github.io/img/icon-192.png">
   <meta property="og:locale" content="en-us">
   
-  <meta property="og:updated_time" content="2021-03-23T00:00:00-04:00">
+  <meta property="og:updated_time" content="2021-06-10T00:00:00-04:00">
   
 
   
@@ -290,10 +290,46 @@
   
   
   <div>
+    <h2><a href="/project/fatnq/">Investigating the Effect of Background Knowledge on Natural Questions</a></h2>
+    <div class="article-style">
+      
+      Existing work shows the benefits of integrating KBs with textual evidence for QA only on questions that are answerable by KBs alone (Sun et al., 2019). In contrast, real world QA systems often have to deal with questions that might not be directly answerable by KBs. Here, we investigate the effect of integrating background knowledge from KBs for the Natural Questions (NQ) task. We create a subset of the NQ data, Factual Questions (FQ), where the questions have evidence in the KB in the form of paths that link question entities to answer entities but still must be answered using text, to facilitate further research into KB integration methods.
+      
+    </div>
+  </div>
+  
+  <div>
+    <h2><a href="/project/frank/">Understanding Factuality in Abstractive Summarization with FRANK: A Benchmark for Factuality Metrics</a></h2>
+    <div class="article-style">
+      
+      Modern summarization models generate highly fluent but often factually unreliable outputs. This motivated a surge of metrics attempting to measure the factuality of automatically generated summaries. Due to the lack of common benchmarks, these metrics cannot be compared. Moreover, all these methods treat factuality as a binary concept and fail to provide deeper insights into the kinds of inconsistencies made by different systems. To address these limitations, we devise a typology of factual errors and use it to collect human annotations of generated summaries from state-of-the-art summarization systems for the CNN/DM and XSum datasets.
+      
+    </div>
+  </div>
+  
+  <div>
+    <h2><a href="/project/realm/">Simple and Efficient ways to Improve REALM</a></h2>
+    <div class="article-style">
+      
+      Dense retrieval has been shown to be effective for retrieving relevant documents for Open Domain QA, surpassing popular sparse retrieval methods like BM25. REALM (Guu et al., 2020) is an end-to-end dense retrieval system that relies on MLM based pretraining for improved downstream QA efficiency across multiple datasets. We study the finetuning of REALM on various QA tasks and explore the limits of various hyperparameter and supervision choices. We find that REALM was significantly undertrained when finetuning and simple improvements in the training, supervision, and inference setups can significantly benefit QA results and exceed the performance of other models published post it.
+      
+    </div>
+  </div>
+  
+  <div>
     <h2><a href="/project/selfexplain/">SelfExplain: A Self-Explaining Architecture for Neural Text Classifiers</a></h2>
     <div class="article-style">
       
-      Abstractive text summarization aims at compressing the information of a long source document into a rephrased, condensed summary. Despite advances in modeling techniques, abstractive summarization models still suffer from several key challenges: (i) layout bias: they overfit to the style of training corpora; (ii) limited abstractiveness: they are optimized to copying n-grams from the source rather than generating novel abstractive summaries; (iii) lack of transparency: they are not interpretable. In this work, we propose a framework based on document-level structure induction for summarization to address these challenges.
+      We introduce SelfExplain, a novel self-explaining framework that explains a text classifier&rsquo;s predictions using phrase-based concepts. SelfExplain augments existing neural classifiers by adding (1) a globally interpretable layer that identifies the most influential concepts in the training set for a given sample and (2) a locally interpretable layer that quantifies the contribution of each local input concept by computing a relevance score relative to the predicted label. Experiments across five text-classification datasets show that SelfExplain facilitates interpretability without sacrificing performance.
+      
+    </div>
+  </div>
+  
+  <div>
+    <h2><a href="/project/dialograph/">DialoGraph: Incorporating Interpretable Strategy-Graph Networks into Negotiation Dialogues</a></h2>
+    <div class="article-style">
+      
+      To successfully negotiate a deal, it is not enough to communicate fluently: pragmatic planning of persuasive negotiation strategies is essential. While modern dialogue agents excel at generating fluent sentences, they still lack pragmatic grounding and cannot reason strategically. We present DialoGraph, a negotiation system that incorporates pragmatic strategies in a negotiation dialogue using graph neural networks. DialoGraph explicitly incorporates dependencies between sequences of strategies to enable improved and interpretable prediction of next optimal strategies, given the dialogue context.
       
     </div>
   </div>
