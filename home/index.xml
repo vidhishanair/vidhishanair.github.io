@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Vidhisha Balachandran</title>
@@ -7,15 +7,11 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Vidhisha Balachandran 2018</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
-    
-	<atom:link href="https://vidhishanair.github.io/home/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0700</lastBuildDate><atom:link href="https://vidhishanair.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>https://vidhishanair.github.io/home/hero_carousel/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 -0400</pubDate>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 -0700</pubDate>
       
       <guid>https://vidhishanair.github.io/home/hero_carousel/</guid>
       <description></description>
@@ -24,17 +20,17 @@
     <item>
       <title></title>
       <link>https://vidhishanair.github.io/home/about/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
       <guid>https://vidhishanair.github.io/home/about/</guid>
-      <description>Biography I am a third year PhD student at the Language Technologies Institute in Carnegie Mellon University. I am advised by Prof. Yulia Tsvetkov. I was fortunate enough to also be advised by the late Prof. Jaime Carbonell during my initial years of PhD. I completed my masters at LTI in 2019, advised by Prof. William Cohen.
-I am currently interning at AI2 with Dr Matthew Peters and Dr Pradeep Dasigi.</description>
+      <description>Biography I am a fourth year PhD student at the Language Technologies Institute in Carnegie Mellon University. I am advised by Prof. Yulia Tsvetkov. I was fortunate enough to also be advised by the late Prof. Jaime Carbonell during my initial years of PhD. I completed my masters at LTI in 2019, advised by Prof. William Cohen.
+I&amp;rsquo;ve spent an amazing summer as a Research Intern at AI2 with Dr Matthew Peters and Dr Pradeep Dasigi.</description>
     </item>
     
     <item>
       <title>Publications</title>
       <link>https://vidhishanair.github.io/home/publications/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
       <guid>https://vidhishanair.github.io/home/publications/</guid>
       <description></description>
@@ -52,7 +48,7 @@ I am currently interning at AI2 with Dr Matthew Peters and Dr Pradeep Dasigi.</d
     <item>
       <title>Selected Publications</title>
       <link>https://vidhishanair.github.io/home/publications_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
       <guid>https://vidhishanair.github.io/home/publications_selected/</guid>
       <description></description>
@@ -61,7 +57,7 @@ I am currently interning at AI2 with Dr Matthew Peters and Dr Pradeep Dasigi.</d
     <item>
       <title>Selected Talks</title>
       <link>https://vidhishanair.github.io/home/talks_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
       <guid>https://vidhishanair.github.io/home/talks_selected/</guid>
       <description></description>
@@ -70,7 +66,7 @@ I am currently interning at AI2 with Dr Matthew Peters and Dr Pradeep Dasigi.</d
     <item>
       <title>Recent Talks</title>
       <link>https://vidhishanair.github.io/home/talks/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
       <guid>https://vidhishanair.github.io/home/talks/</guid>
       <description></description>
@@ -79,7 +75,7 @@ I am currently interning at AI2 with Dr Matthew Peters and Dr Pradeep Dasigi.</d
     <item>
       <title>Recent Posts</title>
       <link>https://vidhishanair.github.io/home/posts/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
       <guid>https://vidhishanair.github.io/home/posts/</guid>
       <description></description>
@@ -88,7 +84,7 @@ I am currently interning at AI2 with Dr Matthew Peters and Dr Pradeep Dasigi.</d
     <item>
       <title>Projects</title>
       <link>https://vidhishanair.github.io/home/projects/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
       <guid>https://vidhishanair.github.io/home/projects/</guid>
       <description></description>
@@ -97,7 +93,7 @@ I am currently interning at AI2 with Dr Matthew Peters and Dr Pradeep Dasigi.</d
     <item>
       <title>Teaching</title>
       <link>https://vidhishanair.github.io/home/teaching/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
       <guid>https://vidhishanair.github.io/home/teaching/</guid>
       <description></description>
@@ -106,7 +102,7 @@ I am currently interning at AI2 with Dr Matthew Peters and Dr Pradeep Dasigi.</d
     <item>
       <title>Tags</title>
       <link>https://vidhishanair.github.io/home/tags/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 -0700</pubDate>
       
       <guid>https://vidhishanair.github.io/home/tags/</guid>
       <description></description>

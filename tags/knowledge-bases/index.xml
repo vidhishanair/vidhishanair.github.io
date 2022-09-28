@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Knowledge Bases on Vidhisha Balachandran</title>
@@ -7,15 +7,11 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Vidhisha Balachandran 2018</copyright>
-    <lastBuildDate>Fri, 13 Dec 2019 00:00:00 -0500</lastBuildDate>
-    
-	<atom:link href="https://vidhishanair.github.io/tags/knowledge-bases/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 13 Dec 2019 00:00:00 -0800</lastBuildDate><atom:link href="https://vidhishanair.github.io/tags/knowledge-bases/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Differentiable Reasoning over a Virtual Knowledge Base</title>
       <link>https://vidhishanair.github.io/project/vkb/</link>
-      <pubDate>Fri, 13 Dec 2019 00:00:00 -0500</pubDate>
+      <pubDate>Fri, 13 Dec 2019 00:00:00 -0800</pubDate>
       
       <guid>https://vidhishanair.github.io/project/vkb/</guid>
       <description>We consider the task of answering complex multi-hop questions using a corpus as a virtual knowledge base (KB). In particular, we describe a neural module, DrKIT, that traverses textual data like a virtual KB, softly following paths of relations between mentions of entities in the corpus. At each step the operation uses a combination of sparse-matrix TFIDF indices and maximum inner product search (MIPS) on a special index of contextual representations.</description>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>KBQA on Vidhisha Balachandran</title>
@@ -7,15 +7,11 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Vidhisha Balachandran 2018</copyright>
-    <lastBuildDate>Thu, 10 Jun 2021 00:00:00 -0400</lastBuildDate>
-    
-	<atom:link href="https://vidhishanair.github.io/tags/kbqa/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 10 Jun 2021 00:00:00 -0700</lastBuildDate><atom:link href="https://vidhishanair.github.io/tags/kbqa/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Investigating the Effect of Background Knowledge on Natural Questions</title>
       <link>https://vidhishanair.github.io/project/fatnq/</link>
-      <pubDate>Thu, 10 Jun 2021 00:00:00 -0400</pubDate>
+      <pubDate>Thu, 10 Jun 2021 00:00:00 -0700</pubDate>
       
       <guid>https://vidhishanair.github.io/project/fatnq/</guid>
       <description>Existing work shows the benefits of integrating KBs with textual evidence for QA only on questions that are answerable by KBs alone (Sun et al., 2019). In contrast, real world QA systems often have to deal with questions that might not be directly answerable by KBs. Here, we investigate the effect of integrating background knowledge from KBs for the Natural Questions (NQ) task. We create a subset of the NQ data, Factual Questions (FQ), where the questions have evidence in the KB in the form of paths that link question entities to answer entities but still must be answered using text, to facilitate further research into KB integration methods.</description>
