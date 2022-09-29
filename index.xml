@@ -96,6 +96,16 @@
     
     <item>
       <title>SelfExplain: A Self-Explaining Architecture for Neural Text Classifiers</title>
+      <link>https://vidhishanair.github.io/project/selfexplain/</link>
+      <pubDate>Tue, 23 Mar 2021 00:00:00 -0700</pubDate>
+      
+      <guid>https://vidhishanair.github.io/project/selfexplain/</guid>
+      <description>&lt;p&gt;We introduce SelfExplain, a novel self-explaining framework that explains a text classifier&amp;rsquo;s predictions using phrase-based concepts. SelfExplain augments existing neural classifiers by adding (1) a globally interpretable layer that identifies the most influential concepts in the training set for a given sample and (2) a locally interpretable layer that quantifies the contribution of each local input concept by computing a relevance score relative to the predicted label. Experiments across five text-classification datasets show that SelfExplain facilitates interpretability without sacrificing performance. Most importantly, explanations from SelfExplain are perceived as more understandable, adequately justifying and trustworthy by human judges compared to existing widely-used baselines.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SelfExplain: A Self-Explaining Architecture for Neural Text Classifiers</title>
       <link>https://vidhishanair.github.io/publication/selfexplain/</link>
       <pubDate>Tue, 23 Mar 2021 00:00:00 -0700</pubDate>
       
@@ -138,15 +148,6 @@
       <pubDate>Sat, 02 Mar 2019 00:00:00 -0800</pubDate>
       
       <guid>https://vidhishanair.github.io/project/entity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Differentiable Reasoning over a Virtual Knowledge Base</title>
-      <link>https://vidhishanair.github.io/publication/diffindex/</link>
-      <pubDate>Thu, 01 Nov 2018 00:00:00 -0700</pubDate>
-      
-      <guid>https://vidhishanair.github.io/publication/diffindex/</guid>
       <description></description>
     </item>
     

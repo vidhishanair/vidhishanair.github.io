@@ -70,6 +70,14 @@
     
     <url>
     
+      <loc>https://vidhishanair.github.io/project/selfexplain/</loc>
+      <lastmod>2021-03-23T00:00:00-07:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://vidhishanair.github.io/publication/selfexplain/</loc>
       <lastmod>2021-03-23T00:00:00-07:00</lastmod>
     </url>
@@ -302,6 +310,15 @@
     
     <url>
     
+      <loc>https://vidhishanair.github.io/tags/interpretability-by-design/</loc>
+      <lastmod>2021-03-23T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://vidhishanair.github.io/tags/interpretable-structures/</loc>
       <lastmod>2018-10-12T00:00:00-07:00</lastmod>
       <priority>0</priority>
@@ -410,6 +427,15 @@
     
     <url>
     
+      <loc>https://vidhishanair.github.io/tags/self-explaining-architectures/</loc>
+      <lastmod>2021-03-23T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://vidhishanair.github.io/tags/sequence-generation/</loc>
       <lastmod>2017-12-04T00:00:00-08:00</lastmod>
       <priority>0</priority>
@@ -454,6 +480,15 @@
     
       <loc>https://vidhishanair.github.io/tags/</loc>
       <lastmod>2018-01-13T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://vidhishanair.github.io/tags/text-classification/</loc>
+      <lastmod>2021-03-23T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
     
