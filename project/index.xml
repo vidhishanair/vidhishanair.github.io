@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Vidhisha Balachandran</title>
@@ -7,7 +7,11 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Vidhisha Balachandran 2018</copyright>
-    <lastBuildDate>Thu, 10 Jun 2021 00:00:00 -0700</lastBuildDate><atom:link href="https://vidhishanair.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 10 Jun 2021 00:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="https://vidhishanair.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Investigating the Effect of Background Knowledge on Natural Questions</title>
       <link>https://vidhishanair.github.io/project/fatnq/</link>
@@ -59,7 +63,7 @@
       <pubDate>Sat, 02 Mar 2019 00:00:00 -0800</pubDate>
       
       <guid>https://vidhishanair.github.io/project/entity/</guid>
-      <description>Developing models for entity recognition and entity linking for closed domain data. Building classifiers to learn and predict cases of fraud in the insurance domain. Developing machine learning models for fraud detection in a low resource domain</description>
+      <description></description>
     </item>
     
     <item>
@@ -77,7 +81,7 @@
       <pubDate>Sun, 27 May 2018 00:00:00 -0700</pubDate>
       
       <guid>https://vidhishanair.github.io/project/tabletotext/</guid>
-      <description>Built a Seq2Seq model for generating biographies of people from Wikipedia Biography Tables. Used alignments between table and text phrases to improve biographies. Results were on par with the previous State of Art models</description>
+      <description></description>
     </item>
     
     <item>
