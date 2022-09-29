@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     
@@ -21,46 +22,6 @@
     
     <url>
     
-      <loc>https://vidhishanair.github.io/tags/kbqa/</loc>
-      <lastmod>2021-06-10T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://vidhishanair.github.io/tags/natural-questions/</loc>
-      <lastmod>2021-06-10T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://vidhishanair.github.io/project/</loc>
-      <lastmod>2021-06-10T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://vidhishanair.github.io/tags/</loc>
-      <lastmod>2021-06-10T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://vidhishanair.github.io/</loc>
-      <lastmod>2021-06-10T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://vidhishanair.github.io/talk/realm/</loc>
       <lastmod>2021-06-01T00:00:00-07:00</lastmod>
     </url>
@@ -77,38 +38,6 @@
     
     <url>
     
-      <loc>https://vidhishanair.github.io/tags/factuality/</loc>
-      <lastmod>2021-04-27T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://vidhishanair.github.io/tags/metrics/</loc>
-      <lastmod>2021-04-27T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://vidhishanair.github.io/tags/summarization/</loc>
-      <lastmod>2021-04-27T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://vidhishanair.github.io/tags/typology-framework/</loc>
-      <lastmod>2021-04-27T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://vidhishanair.github.io/project/frank/</loc>
       <lastmod>2021-04-27T00:00:00-07:00</lastmod>
     </url>
@@ -119,30 +48,6 @@
     
       <loc>https://vidhishanair.github.io/publication/frank/</loc>
       <lastmod>2021-04-27T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://vidhishanair.github.io/tags/evaluation/</loc>
-      <lastmod>2021-04-18T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://vidhishanair.github.io/tags/open-domain-qa/</loc>
-      <lastmod>2021-04-18T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://vidhishanair.github.io/tags/realm/</loc>
-      <lastmod>2021-04-18T00:00:00-07:00</lastmod>
     </url>
     
   
@@ -189,79 +94,7 @@
     
     <url>
     
-      <loc>https://vidhishanair.github.io/tags/graph-neural-networks/</loc>
-      <lastmod>2020-09-28T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://vidhishanair.github.io/tags/interpretability/</loc>
-      <lastmod>2020-09-28T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://vidhishanair.github.io/tags/negotiation-dialog/</loc>
-      <lastmod>2020-09-28T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://vidhishanair.github.io/tags/data-structures-for-qa/</loc>
-      <lastmod>2019-12-13T00:00:00-08:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://vidhishanair.github.io/tags/deep-learning/</loc>
-      <lastmod>2019-12-13T00:00:00-08:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://vidhishanair.github.io/project/vkb/</loc>
-      <lastmod>2019-12-13T00:00:00-08:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://vidhishanair.github.io/tags/information-extraction/</loc>
-      <lastmod>2019-12-13T00:00:00-08:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://vidhishanair.github.io/tags/knowledge-bases/</loc>
-      <lastmod>2019-12-13T00:00:00-08:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://vidhishanair.github.io/tags/multi-hop-qa/</loc>
-      <lastmod>2019-12-13T00:00:00-08:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://vidhishanair.github.io/tags/question-answering/</loc>
       <lastmod>2019-12-13T00:00:00-08:00</lastmod>
     </url>
     
@@ -301,23 +134,7 @@
     
     <url>
     
-      <loc>https://vidhishanair.github.io/tags/interpretable-structures/</loc>
-      <lastmod>2018-10-12T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://vidhishanair.github.io/project/structsum/</loc>
-      <lastmod>2018-10-12T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://vidhishanair.github.io/tags/text-summarization/</loc>
       <lastmod>2018-10-12T00:00:00-07:00</lastmod>
     </url>
     
@@ -341,14 +158,6 @@
     
     <url>
     
-      <loc>https://vidhishanair.github.io/tags/table-to-text-generation/</loc>
-      <lastmod>2018-05-27T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://vidhishanair.github.io/project/tabletotext/</loc>
       <lastmod>2018-05-27T00:00:00-07:00</lastmod>
     </url>
@@ -358,22 +167,6 @@
     <url>
     
       <loc>https://vidhishanair.github.io/project/defgen/</loc>
-      <lastmod>2017-12-04T00:00:00-08:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://vidhishanair.github.io/tags/sequence-generation/</loc>
-      <lastmod>2017-12-04T00:00:00-08:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://vidhishanair.github.io/tags/word-embeddings/</loc>
       <lastmod>2017-12-04T00:00:00-08:00</lastmod>
     </url>
     
@@ -405,14 +198,6 @@
     
     <url>
     
-      <loc>https://vidhishanair.github.io/tags/academic/</loc>
-      <lastmod>2018-01-13T00:00:00-08:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://vidhishanair.github.io/post/getting-started/</loc>
       <lastmod>2018-01-13T00:00:00-08:00</lastmod>
     </url>
@@ -429,7 +214,44 @@
     
     <url>
     
+      <loc>https://vidhishanair.github.io/tags/academic/</loc>
+      <lastmod>2018-01-13T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://vidhishanair.github.io/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://vidhishanair.github.io/tags/data-structures-for-qa/</loc>
+      <lastmod>2019-12-13T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://vidhishanair.github.io/tags/deep-learning/</loc>
+      <lastmod>2019-12-13T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://vidhishanair.github.io/tags/evaluation/</loc>
+      <lastmod>2021-04-18T00:00:00-07:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -437,13 +259,160 @@
     <url>
     
       <loc>https://vidhishanair.github.io/experience/</loc>
+      <priority>0</priority>
     </url>
     
   
     
     <url>
     
-      <loc>https://vidhishanair.github.io/tags/latent/explicit-document-structure/</loc>
+      <loc>https://vidhishanair.github.io/tags/factuality/</loc>
+      <lastmod>2021-04-27T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://vidhishanair.github.io/tags/graph-neural-networks/</loc>
+      <lastmod>2020-09-28T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://vidhishanair.github.io/tags/information-extraction/</loc>
+      <lastmod>2019-12-13T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://vidhishanair.github.io/tags/interpretability/</loc>
+      <lastmod>2020-09-28T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://vidhishanair.github.io/tags/interpretable-structures/</loc>
+      <lastmod>2018-10-12T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://vidhishanair.github.io/tags/kbqa/</loc>
+      <lastmod>2021-06-10T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://vidhishanair.github.io/tags/knowledge-bases/</loc>
+      <lastmod>2019-12-13T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://vidhishanair.github.io/tags/latent-explicit-document-structure/</loc>
+      <lastmod>2018-10-12T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://vidhishanair.github.io/tags/metrics/</loc>
+      <lastmod>2021-04-27T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://vidhishanair.github.io/tags/multi-hop-qa/</loc>
+      <lastmod>2019-12-13T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://vidhishanair.github.io/tags/natural-questions/</loc>
+      <lastmod>2021-06-10T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://vidhishanair.github.io/tags/negotiation-dialog/</loc>
+      <lastmod>2020-09-28T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://vidhishanair.github.io/tags/open-domain-qa/</loc>
+      <lastmod>2021-04-18T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://vidhishanair.github.io/project/</loc>
+      <lastmod>2021-06-10T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://vidhishanair.github.io/tags/question-answering/</loc>
+      <lastmod>2019-12-13T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://vidhishanair.github.io/tags/realm/</loc>
+      <lastmod>2021-04-18T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://vidhishanair.github.io/tags/sequence-generation/</loc>
+      <lastmod>2017-12-04T00:00:00-08:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -451,6 +420,7 @@
     <url>
     
       <loc>https://vidhishanair.github.io/slides/</loc>
+      <priority>0</priority>
     </url>
     
   
@@ -458,6 +428,69 @@
     <url>
     
       <loc>https://vidhishanair.github.io/slides/example-slides/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://vidhishanair.github.io/tags/summarization/</loc>
+      <lastmod>2021-04-27T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://vidhishanair.github.io/tags/table-to-text-generation/</loc>
+      <lastmod>2018-05-27T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://vidhishanair.github.io/tags/</loc>
+      <lastmod>2018-01-13T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://vidhishanair.github.io/tags/text-summarization/</loc>
+      <lastmod>2018-10-12T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://vidhishanair.github.io/tags/typology-framework/</loc>
+      <lastmod>2021-04-27T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://vidhishanair.github.io/</loc>
+      <lastmod>2017-10-15T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://vidhishanair.github.io/tags/word-embeddings/</loc>
+      <lastmod>2017-12-04T00:00:00-08:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
