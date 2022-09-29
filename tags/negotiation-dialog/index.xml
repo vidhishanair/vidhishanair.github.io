@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Negotiation Dialog on Vidhisha Balachandran</title>
@@ -7,11 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Vidhisha Balachandran 2018</copyright>
-    <lastBuildDate>Mon, 28 Sep 2020 00:00:00 -0700</lastBuildDate>
-    
-	<atom:link href="https://vidhishanair.github.io/tags/negotiation-dialog/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 28 Sep 2020 00:00:00 -0700</lastBuildDate><atom:link href="https://vidhishanair.github.io/tags/negotiation-dialog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DialoGraph: Incorporating Interpretable Strategy-Graph Networks into Negotiation Dialogues</title>
       <link>https://vidhishanair.github.io/project/dialograph/</link>

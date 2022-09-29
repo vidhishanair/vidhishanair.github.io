@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Natural Questions on Vidhisha Balachandran</title>
@@ -7,11 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Vidhisha Balachandran 2018</copyright>
-    <lastBuildDate>Thu, 10 Jun 2021 00:00:00 -0700</lastBuildDate>
-    
-	<atom:link href="https://vidhishanair.github.io/tags/natural-questions/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 10 Jun 2021 00:00:00 -0700</lastBuildDate><atom:link href="https://vidhishanair.github.io/tags/natural-questions/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Investigating the Effect of Background Knowledge on Natural Questions</title>
       <link>https://vidhishanair.github.io/project/fatnq/</link>

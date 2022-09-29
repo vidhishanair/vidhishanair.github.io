@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Vidhisha Balachandran</title>
@@ -7,11 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Vidhisha Balachandran 2018</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0700</lastBuildDate>
-    
-	<atom:link href="https://vidhishanair.github.io/home/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0700</lastBuildDate><atom:link href="https://vidhishanair.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>https://vidhishanair.github.io/home/hero_carousel/</link>
@@ -28,7 +24,7 @@
       
       <guid>https://vidhishanair.github.io/home/about/</guid>
       <description>Biography I am a fourth year PhD student at the Language Technologies Institute in Carnegie Mellon University. I am advised by Prof. Yulia Tsvetkov. I was fortunate enough to also be advised by the late Prof. Jaime Carbonell during my initial years of PhD. I completed my masters at LTI in 2019, advised by Prof. William Cohen.
-I&amp;rsquo;ve spent an amazing summer as a Research Intern at AI2 with Dr Matthew Peters and Dr Pradeep Dasigi.</description>
+I&amp;rsquo;ve spent amazing summers as a Research Intern &amp;mdash; in 2021 at AI2 with Dr Matthew Peters and Dr Pradeep Dasigi, in 2020 at Google Brain hosted by Niki Parmar and Dr Ashish Vaswani and in 2019 with Google Language team hosted by Dr William Cohen and Dr Michael Collins.</description>
     </item>
     
     <item>
