@@ -39,20 +39,20 @@
     </item>
     
     <item>
-      <title>Investigating the Effect of Background Knowledge on Natural Questions</title>
-      <link>https://vidhishanair.github.io/publication/fatnq/</link>
-      <pubDate>Thu, 10 Jun 2021 00:00:00 -0700</pubDate>
-      
-      <guid>https://vidhishanair.github.io/publication/fatnq/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Simple and Efficient ways to Improve REALM</title>
       <link>https://vidhishanair.github.io/talk/realm/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 -0700</pubDate>
       
       <guid>https://vidhishanair.github.io/talk/realm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>StructSum: Summarization via Structured Representations</title>
+      <link>https://vidhishanair.github.io/publication/structsum/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 -0700</pubDate>
+      
+      <guid>https://vidhishanair.github.io/publication/structsum/</guid>
       <description></description>
     </item>
     
@@ -85,6 +85,15 @@
     </item>
     
     <item>
+      <title>SelfExplain: A Self-Explaining Architecture for Neural Text Classifiers</title>
+      <link>https://vidhishanair.github.io/publication/selfexplain/</link>
+      <pubDate>Fri, 23 Apr 2021 00:00:00 -0700</pubDate>
+      
+      <guid>https://vidhishanair.github.io/publication/selfexplain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Simple and Efficient ways to Improve REALM</title>
       <link>https://vidhishanair.github.io/project/realm/</link>
       <pubDate>Sun, 18 Apr 2021 00:00:00 -0700</pubDate>
@@ -92,15 +101,6 @@
       <guid>https://vidhishanair.github.io/project/realm/</guid>
       <description>&lt;p&gt;Dense retrieval has been shown to be effective for retrieving relevant documents for Open Domain QA, surpassing popular sparse retrieval methods like BM25. REALM (Guu et al., 2020) is an end-to-end dense retrieval system that relies on MLM based pretraining for improved downstream QA efficiency across multiple datasets. We study the finetuning of REALM on various QA tasks and explore the limits of various hyperparameter and supervision choices. We find that REALM was significantly undertrained when finetuning and simple improvements in the training, supervision, and inference setups can significantly benefit QA results and exceed the performance of other models published post it. Our best model, REALM++, incorporates all the best working findings and achieves significant QA accuracy improvements over baselines (~5.5% absolute accuracy) without any model design changes. Additionally, REALM++ matches the performance of large Open Domain QA models which have 3x more parameters demonstrating the efficiency of the setup.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Simple and Efficient ways to Improve REALM</title>
-      <link>https://vidhishanair.github.io/publication/realm/</link>
-      <pubDate>Sun, 18 Apr 2021 00:00:00 -0700</pubDate>
-      
-      <guid>https://vidhishanair.github.io/publication/realm/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -114,11 +114,20 @@
     </item>
     
     <item>
-      <title>SelfExplain: A Self-Explaining Architecture for Neural Text Classifiers</title>
-      <link>https://vidhishanair.github.io/publication/selfexplain/</link>
-      <pubDate>Tue, 23 Mar 2021 00:00:00 -0700</pubDate>
+      <title>Simple and Efficient ways to Improve REALM</title>
+      <link>https://vidhishanair.github.io/publication/realm/</link>
+      <pubDate>Thu, 18 Mar 2021 00:00:00 -0700</pubDate>
       
-      <guid>https://vidhishanair.github.io/publication/selfexplain/</guid>
+      <guid>https://vidhishanair.github.io/publication/realm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investigating the Effect of Background Knowledge on Natural Questions</title>
+      <link>https://vidhishanair.github.io/publication/fatnq/</link>
+      <pubDate>Wed, 10 Mar 2021 00:00:00 -0800</pubDate>
+      
+      <guid>https://vidhishanair.github.io/publication/fatnq/</guid>
       <description></description>
     </item>
     
@@ -139,16 +148,6 @@
       
       <guid>https://vidhishanair.github.io/publication/dialograph/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Differentiable Reasoning over a Virtual Knowledge Base</title>
-      <link>https://vidhishanair.github.io/project/vkb/</link>
-      <pubDate>Fri, 13 Dec 2019 00:00:00 -0800</pubDate>
-      
-      <guid>https://vidhishanair.github.io/project/vkb/</guid>
-      <description>&lt;p&gt;We consider the task of answering complex multi-hop questions using a corpus as a virtual knowledge base (KB). In particular, we describe a neural module, DrKIT, that traverses textual data like a virtual KB, softly following paths of relations between mentions of entities in the corpus. At each step the operation uses a combination of sparse-matrix TFIDF indices and maximum inner product search (MIPS) on a special index of contextual representations. This module is differentiable, so the full system can be trained completely end-to-end using gradient based methods, starting from natural language inputs. We also describe a pretraining scheme for the index mention encoder by generating hard negative examples using existing knowledge bases. We show that DrKIT improves accuracy by 9 points on 3-hop questions in the MetaQA dataset, cutting the gap between text-based and KB-based state-of-the-art by 70%. DrKIT is also very efficient, processing upto 10x more queries per second than existing state-of-the-art QA systems.&lt;/p&gt;
-</description>
     </item>
     
   </channel>
