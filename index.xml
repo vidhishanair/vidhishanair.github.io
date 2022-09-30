@@ -20,6 +20,15 @@
     </item>
     
     <item>
+      <title>Self Attention and Transformers for Undergrad NLP</title>
+      <link>https://vidhishanair.github.io/talk/transf/</link>
+      <pubDate>Sat, 16 Apr 2022 00:00:00 -0700</pubDate>
+      
+      <guid>https://vidhishanair.github.io/talk/transf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Investigating the Effect of Background Knowledge on Natural Questions</title>
       <link>https://vidhishanair.github.io/project/fatnq/</link>
       <pubDate>Thu, 10 Jun 2021 00:00:00 -0700</pubDate>
@@ -140,15 +149,6 @@
       <guid>https://vidhishanair.github.io/project/vkb/</guid>
       <description>&lt;p&gt;We consider the task of answering complex multi-hop questions using a corpus as a virtual knowledge base (KB). In particular, we describe a neural module, DrKIT, that traverses textual data like a virtual KB, softly following paths of relations between mentions of entities in the corpus. At each step the operation uses a combination of sparse-matrix TFIDF indices and maximum inner product search (MIPS) on a special index of contextual representations. This module is differentiable, so the full system can be trained completely end-to-end using gradient based methods, starting from natural language inputs. We also describe a pretraining scheme for the index mention encoder by generating hard negative examples using existing knowledge bases. We show that DrKIT improves accuracy by 9 points on 3-hop questions in the MetaQA dataset, cutting the gap between text-based and KB-based state-of-the-art by 70%. DrKIT is also very efficient, processing upto 10x more queries per second than existing state-of-the-art QA systems.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Closed Domain Entity Recognition and Fraud Detection</title>
-      <link>https://vidhishanair.github.io/project/entity/</link>
-      <pubDate>Sat, 02 Mar 2019 00:00:00 -0800</pubDate>
-      
-      <guid>https://vidhishanair.github.io/project/entity/</guid>
-      <description></description>
     </item>
     
   </channel>
