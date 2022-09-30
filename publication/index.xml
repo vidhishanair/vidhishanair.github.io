@@ -40,6 +40,15 @@
     </item>
     
     <item>
+      <title>DialoGraph: Incorporating Interpretable Strategy-Graph Networks into Negotiation Dialogues</title>
+      <link>https://vidhishanair.github.io/publication/dialograph/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 -0700</pubDate>
+      
+      <guid>https://vidhishanair.github.io/publication/dialograph/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Simple and Efficient ways to Improve REALM</title>
       <link>https://vidhishanair.github.io/publication/realm/</link>
       <pubDate>Thu, 18 Mar 2021 00:00:00 -0700</pubDate>
@@ -58,18 +67,9 @@
     </item>
     
     <item>
-      <title>DialoGraph: Incorporating Interpretable Strategy-Graph Networks into Negotiation Dialogues</title>
-      <link>https://vidhishanair.github.io/publication/dialograph/</link>
-      <pubDate>Mon, 28 Sep 2020 00:00:00 -0700</pubDate>
-      
-      <guid>https://vidhishanair.github.io/publication/dialograph/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Differentiable Reasoning over a Virtual Knowledge Base</title>
       <link>https://vidhishanair.github.io/publication/diffindex/</link>
-      <pubDate>Thu, 01 Nov 2018 00:00:00 -0700</pubDate>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 -0700</pubDate>
       
       <guid>https://vidhishanair.github.io/publication/diffindex/</guid>
       <description></description>
@@ -81,15 +81,6 @@
       <pubDate>Thu, 01 Nov 2018 00:00:00 -0700</pubDate>
       
       <guid>https://vidhishanair.github.io/publication/defgen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Simple Cloud Federation</title>
-      <link>https://vidhishanair.github.io/publication/cloud/</link>
-      <pubDate>Tue, 01 Jul 2014 00:00:00 -0700</pubDate>
-      
-      <guid>https://vidhishanair.github.io/publication/cloud/</guid>
       <description></description>
     </item>
     
