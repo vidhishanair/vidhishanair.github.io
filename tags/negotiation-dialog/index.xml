@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Vidhisha Balachandran 2018</copyright>
-    <lastBuildDate>Mon, 28 Sep 2020 00:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2020 00:00:00 +0530</lastBuildDate>
     
 	<atom:link href="https://vidhishanair.github.io/tags/negotiation-dialog/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>DialoGraph: Incorporating Interpretable Strategy-Graph Networks into Negotiation Dialogues</title>
       <link>https://vidhishanair.github.io/project/dialograph/</link>
-      <pubDate>Mon, 28 Sep 2020 00:00:00 -0700</pubDate>
+      <pubDate>Mon, 28 Sep 2020 00:00:00 +0530</pubDate>
       
       <guid>https://vidhishanair.github.io/project/dialograph/</guid>
       <description>To successfully negotiate a deal, it is not enough to communicate fluently: pragmatic planning of persuasive negotiation strategies is essential. While modern dialogue agents excel at generating fluent sentences, they still lack pragmatic grounding and cannot reason strategically. We present DialoGraph, a negotiation system that incorporates pragmatic strategies in a negotiation dialogue using graph neural networks. DialoGraph explicitly incorporates dependencies between sequences of strategies to enable improved and interpretable prediction of next optimal strategies, given the dialogue context.</description>

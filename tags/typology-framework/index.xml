@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Vidhisha Balachandran 2018</copyright>
-    <lastBuildDate>Tue, 27 Apr 2021 00:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 27 Apr 2021 00:00:00 +0530</lastBuildDate>
     
 	<atom:link href="https://vidhishanair.github.io/tags/typology-framework/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Understanding Factuality in Abstractive Summarization with FRANK: A Benchmark for Factuality Metrics</title>
       <link>https://vidhishanair.github.io/project/frank/</link>
-      <pubDate>Tue, 27 Apr 2021 00:00:00 -0700</pubDate>
+      <pubDate>Tue, 27 Apr 2021 00:00:00 +0530</pubDate>
       
       <guid>https://vidhishanair.github.io/project/frank/</guid>
       <description>Modern summarization models generate highly fluent but often factually unreliable outputs. This motivated a surge of metrics attempting to measure the factuality of automatically generated summaries. Due to the lack of common benchmarks, these metrics cannot be compared. Moreover, all these methods treat factuality as a binary concept and fail to provide deeper insights into the kinds of inconsistencies made by different systems. To address these limitations, we devise a typology of factual errors and use it to collect human annotations of generated summaries from state-of-the-art summarization systems for the CNN/DM and XSum datasets.</description>

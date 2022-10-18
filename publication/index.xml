@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Vidhisha Balachandran 2018</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0800</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0530</lastBuildDate>
     
 	<atom:link href="https://vidhishanair.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>StructSum: Summarization via Structured Representations</title>
       <link>https://vidhishanair.github.io/publication/structsum/</link>
-      <pubDate>Sat, 01 May 2021 00:00:00 -0700</pubDate>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0530</pubDate>
       
       <guid>https://vidhishanair.github.io/publication/structsum/</guid>
       <description></description>
@@ -24,7 +24,7 @@
     <item>
       <title>Understanding Factuality in Abstractive Summarization with FRANK: A Benchmark for Factuality Metrics</title>
       <link>https://vidhishanair.github.io/publication/frank/</link>
-      <pubDate>Tue, 27 Apr 2021 00:00:00 -0700</pubDate>
+      <pubDate>Tue, 27 Apr 2021 00:00:00 +0530</pubDate>
       
       <guid>https://vidhishanair.github.io/publication/frank/</guid>
       <description></description>
@@ -33,7 +33,7 @@
     <item>
       <title>SelfExplain: A Self-Explaining Architecture for Neural Text Classifiers</title>
       <link>https://vidhishanair.github.io/publication/selfexplain/</link>
-      <pubDate>Fri, 23 Apr 2021 00:00:00 -0700</pubDate>
+      <pubDate>Fri, 23 Apr 2021 00:00:00 +0530</pubDate>
       
       <guid>https://vidhishanair.github.io/publication/selfexplain/</guid>
       <description></description>
@@ -42,7 +42,7 @@
     <item>
       <title>DialoGraph: Incorporating Interpretable Strategy-Graph Networks into Negotiation Dialogues</title>
       <link>https://vidhishanair.github.io/publication/dialograph/</link>
-      <pubDate>Thu, 01 Apr 2021 00:00:00 -0700</pubDate>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0530</pubDate>
       
       <guid>https://vidhishanair.github.io/publication/dialograph/</guid>
       <description></description>
@@ -51,7 +51,7 @@
     <item>
       <title>Simple and Efficient ways to Improve REALM</title>
       <link>https://vidhishanair.github.io/publication/realm/</link>
-      <pubDate>Thu, 18 Mar 2021 00:00:00 -0700</pubDate>
+      <pubDate>Thu, 18 Mar 2021 00:00:00 +0530</pubDate>
       
       <guid>https://vidhishanair.github.io/publication/realm/</guid>
       <description></description>
@@ -60,7 +60,7 @@
     <item>
       <title>Investigating the Effect of Background Knowledge on Natural Questions</title>
       <link>https://vidhishanair.github.io/publication/fatnq/</link>
-      <pubDate>Wed, 10 Mar 2021 00:00:00 -0800</pubDate>
+      <pubDate>Wed, 10 Mar 2021 00:00:00 +0530</pubDate>
       
       <guid>https://vidhishanair.github.io/publication/fatnq/</guid>
       <description></description>
@@ -69,7 +69,7 @@
     <item>
       <title>Differentiable Reasoning over a Virtual Knowledge Base</title>
       <link>https://vidhishanair.github.io/publication/diffindex/</link>
-      <pubDate>Sun, 01 Nov 2020 00:00:00 -0700</pubDate>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0530</pubDate>
       
       <guid>https://vidhishanair.github.io/publication/diffindex/</guid>
       <description></description>
@@ -78,7 +78,7 @@
     <item>
       <title>Learning to Define Terms in the Software Domain</title>
       <link>https://vidhishanair.github.io/publication/defgen/</link>
-      <pubDate>Thu, 01 Nov 2018 00:00:00 -0700</pubDate>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0530</pubDate>
       
       <guid>https://vidhishanair.github.io/publication/defgen/</guid>
       <description></description>

@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Vidhisha Balachandran 2018</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0530</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
@@ -22,7 +22,7 @@
     <item>
       <title>Self Attention and Transformers for Undergrad NLP</title>
       <link>https://vidhishanair.github.io/talk/transf/</link>
-      <pubDate>Sat, 16 Apr 2022 00:00:00 -0700</pubDate>
+      <pubDate>Sat, 16 Apr 2022 00:00:00 +0530</pubDate>
       
       <guid>https://vidhishanair.github.io/talk/transf/</guid>
       <description></description>
@@ -31,7 +31,7 @@
     <item>
       <title>Investigating the Effect of Background Knowledge on Natural Questions</title>
       <link>https://vidhishanair.github.io/project/fatnq/</link>
-      <pubDate>Thu, 10 Jun 2021 00:00:00 -0700</pubDate>
+      <pubDate>Thu, 10 Jun 2021 00:00:00 +0530</pubDate>
       
       <guid>https://vidhishanair.github.io/project/fatnq/</guid>
       <description>&lt;p&gt;Existing work shows the benefits of integrating KBs with textual evidence for QA only on questions that are answerable by KBs alone (Sun et al., 2019). In contrast, real world QA systems often have to deal with questions that might not be directly answerable by KBs. Here, we investigate the effect of integrating background knowledge from KBs for the Natural Questions (NQ) task. We create a subset of the NQ data, Factual Questions (FQ), where the questions have evidence in the KB in the form of paths that link question entities to answer entities but still must be answered using text, to facilitate further research into KB integration methods. We propose and analyze a simple, model-agnostic approach for incorporating KB paths into text-based QA systems and establish a strong upper bound on FQ for our method using an oracle retriever. We show that several variants of Personalized PageRank based fact retrievers lead to a low recall of answer entities and consequently fail to improve QA performance. Our results suggest that fact retrieval is a bottleneck for integrating KBs into real world QA datasets&lt;/p&gt;
@@ -41,7 +41,7 @@
     <item>
       <title>Simple and Efficient ways to Improve REALM</title>
       <link>https://vidhishanair.github.io/talk/realm/</link>
-      <pubDate>Tue, 01 Jun 2021 00:00:00 -0700</pubDate>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0530</pubDate>
       
       <guid>https://vidhishanair.github.io/talk/realm/</guid>
       <description></description>
@@ -50,7 +50,7 @@
     <item>
       <title>StructSum: Summarization via Structured Representations</title>
       <link>https://vidhishanair.github.io/publication/structsum/</link>
-      <pubDate>Sat, 01 May 2021 00:00:00 -0700</pubDate>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0530</pubDate>
       
       <guid>https://vidhishanair.github.io/publication/structsum/</guid>
       <description></description>
@@ -59,7 +59,7 @@
     <item>
       <title>On the Transparency and Reliability of Automatic Summarization</title>
       <link>https://vidhishanair.github.io/talk/transp_summ/</link>
-      <pubDate>Fri, 30 Apr 2021 00:00:00 -0700</pubDate>
+      <pubDate>Fri, 30 Apr 2021 00:00:00 +0530</pubDate>
       
       <guid>https://vidhishanair.github.io/talk/transp_summ/</guid>
       <description></description>
@@ -68,7 +68,7 @@
     <item>
       <title>Understanding Factuality in Abstractive Summarization with FRANK: A Benchmark for Factuality Metrics</title>
       <link>https://vidhishanair.github.io/project/frank/</link>
-      <pubDate>Tue, 27 Apr 2021 00:00:00 -0700</pubDate>
+      <pubDate>Tue, 27 Apr 2021 00:00:00 +0530</pubDate>
       
       <guid>https://vidhishanair.github.io/project/frank/</guid>
       <description>&lt;p&gt;Modern summarization models generate highly fluent but often factually unreliable outputs. This motivated a surge of metrics attempting to measure the factuality of automatically generated summaries. Due to the lack of common benchmarks, these metrics cannot be compared. Moreover, all these methods treat factuality as a binary concept and fail to provide deeper insights into the kinds of inconsistencies made by different systems. To address these limitations, we devise a typology of factual errors and use it to collect human annotations of generated summaries from state-of-the-art summarization systems for the CNN/DM and XSum datasets. Through these annotations, we identify the proportion of different categories of factual errors in various summarization models and benchmark factuality metrics, showing their correlation with human judgment as well as their specific strengths and weaknesses.&lt;/p&gt;
@@ -78,7 +78,7 @@
     <item>
       <title>Understanding Factuality in Abstractive Summarization with FRANK: A Benchmark for Factuality Metrics</title>
       <link>https://vidhishanair.github.io/publication/frank/</link>
-      <pubDate>Tue, 27 Apr 2021 00:00:00 -0700</pubDate>
+      <pubDate>Tue, 27 Apr 2021 00:00:00 +0530</pubDate>
       
       <guid>https://vidhishanair.github.io/publication/frank/</guid>
       <description></description>
@@ -87,7 +87,7 @@
     <item>
       <title>SelfExplain: A Self-Explaining Architecture for Neural Text Classifiers</title>
       <link>https://vidhishanair.github.io/publication/selfexplain/</link>
-      <pubDate>Fri, 23 Apr 2021 00:00:00 -0700</pubDate>
+      <pubDate>Fri, 23 Apr 2021 00:00:00 +0530</pubDate>
       
       <guid>https://vidhishanair.github.io/publication/selfexplain/</guid>
       <description></description>
@@ -96,7 +96,7 @@
     <item>
       <title>Simple and Efficient ways to Improve REALM</title>
       <link>https://vidhishanair.github.io/project/realm/</link>
-      <pubDate>Sun, 18 Apr 2021 00:00:00 -0700</pubDate>
+      <pubDate>Sun, 18 Apr 2021 00:00:00 +0530</pubDate>
       
       <guid>https://vidhishanair.github.io/project/realm/</guid>
       <description>&lt;p&gt;Dense retrieval has been shown to be effective for retrieving relevant documents for Open Domain QA, surpassing popular sparse retrieval methods like BM25. REALM (Guu et al., 2020) is an end-to-end dense retrieval system that relies on MLM based pretraining for improved downstream QA efficiency across multiple datasets. We study the finetuning of REALM on various QA tasks and explore the limits of various hyperparameter and supervision choices. We find that REALM was significantly undertrained when finetuning and simple improvements in the training, supervision, and inference setups can significantly benefit QA results and exceed the performance of other models published post it. Our best model, REALM++, incorporates all the best working findings and achieves significant QA accuracy improvements over baselines (~5.5% absolute accuracy) without any model design changes. Additionally, REALM++ matches the performance of large Open Domain QA models which have 3x more parameters demonstrating the efficiency of the setup.&lt;/p&gt;
@@ -106,7 +106,7 @@
     <item>
       <title>DialoGraph: Incorporating Interpretable Strategy-Graph Networks into Negotiation Dialogues</title>
       <link>https://vidhishanair.github.io/publication/dialograph/</link>
-      <pubDate>Thu, 01 Apr 2021 00:00:00 -0700</pubDate>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0530</pubDate>
       
       <guid>https://vidhishanair.github.io/publication/dialograph/</guid>
       <description></description>
@@ -115,7 +115,7 @@
     <item>
       <title>SelfExplain: A Self-Explaining Architecture for Neural Text Classifiers</title>
       <link>https://vidhishanair.github.io/project/selfexplain/</link>
-      <pubDate>Tue, 23 Mar 2021 00:00:00 -0700</pubDate>
+      <pubDate>Tue, 23 Mar 2021 00:00:00 +0530</pubDate>
       
       <guid>https://vidhishanair.github.io/project/selfexplain/</guid>
       <description>&lt;p&gt;We introduce SelfExplain, a novel self-explaining framework that explains a text classifier&amp;rsquo;s predictions using phrase-based concepts. SelfExplain augments existing neural classifiers by adding (1) a globally interpretable layer that identifies the most influential concepts in the training set for a given sample and (2) a locally interpretable layer that quantifies the contribution of each local input concept by computing a relevance score relative to the predicted label. Experiments across five text-classification datasets show that SelfExplain facilitates interpretability without sacrificing performance. Most importantly, explanations from SelfExplain are perceived as more understandable, adequately justifying and trustworthy by human judges compared to existing widely-used baselines.&lt;/p&gt;
@@ -125,7 +125,7 @@
     <item>
       <title>Simple and Efficient ways to Improve REALM</title>
       <link>https://vidhishanair.github.io/publication/realm/</link>
-      <pubDate>Thu, 18 Mar 2021 00:00:00 -0700</pubDate>
+      <pubDate>Thu, 18 Mar 2021 00:00:00 +0530</pubDate>
       
       <guid>https://vidhishanair.github.io/publication/realm/</guid>
       <description></description>
@@ -134,7 +134,7 @@
     <item>
       <title>Investigating the Effect of Background Knowledge on Natural Questions</title>
       <link>https://vidhishanair.github.io/publication/fatnq/</link>
-      <pubDate>Wed, 10 Mar 2021 00:00:00 -0800</pubDate>
+      <pubDate>Wed, 10 Mar 2021 00:00:00 +0530</pubDate>
       
       <guid>https://vidhishanair.github.io/publication/fatnq/</guid>
       <description></description>
@@ -143,7 +143,7 @@
     <item>
       <title>Differentiable Reasoning over a Virtual Knowledge Base</title>
       <link>https://vidhishanair.github.io/publication/diffindex/</link>
-      <pubDate>Sun, 01 Nov 2020 00:00:00 -0700</pubDate>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0530</pubDate>
       
       <guid>https://vidhishanair.github.io/publication/diffindex/</guid>
       <description></description>
