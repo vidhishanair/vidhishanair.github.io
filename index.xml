@@ -63,6 +63,16 @@
     
     <item>
       <title>Correcting Diverse Factual Errors in Abstractive Summarization via Post-Editing and Language Model Infilling</title>
+      <link>https://vidhishanair.github.io/project/factedit/</link>
+      <pubDate>Mon, 10 Oct 2022 00:00:00 -0700</pubDate>
+      
+      <guid>https://vidhishanair.github.io/project/factedit/</guid>
+      <description>&lt;p&gt;Abstractive summarization models often generate inconsistent summaries containing factual errors or hallucinated content. Recent works focus on correcting factual errors in generated summaries via post-editing. Such correction models are trained using adversarial non-factual summaries constructed using heuristic rules for injecting errors. However, generating non-factual summaries using heuristics often does not generalize well to actual model errors. In this work, we propose to generate hard, representative synthetic examples of non-factual summaries through infilling language models. With this data, we train a more robust fact-correction model to post-edit the summaries to improve factual consistency. Through quantitative and qualitative experiments on two popular summarization datasets &amp;ndash; CNN/DM and XSum &amp;ndash; we show that our approach vastly outperforms prior methods in correcting erroneous summaries. Our model &amp;ndash; FactEdit &amp;ndash; improves factuality scores by over ~11 points on CNN/DM and over ~31 points on XSum on average across multiple summarization models, producing more factual summaries while maintaining competitive summarization quality.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Correcting Diverse Factual Errors in Abstractive Summarization via Post-Editing and Language Model Infilling</title>
       <link>https://vidhishanair.github.io/publication/factedit/</link>
       <pubDate>Mon, 10 Oct 2022 00:00:00 -0700</pubDate>
       
@@ -142,16 +152,6 @@
       
       <guid>https://vidhishanair.github.io/publication/selfexplain/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Simple and Efficient ways to Improve REALM</title>
-      <link>https://vidhishanair.github.io/project/realm/</link>
-      <pubDate>Sun, 18 Apr 2021 00:00:00 -0700</pubDate>
-      
-      <guid>https://vidhishanair.github.io/project/realm/</guid>
-      <description>&lt;p&gt;Dense retrieval has been shown to be effective for retrieving relevant documents for Open Domain QA, surpassing popular sparse retrieval methods like BM25. REALM (Guu et al., 2020) is an end-to-end dense retrieval system that relies on MLM based pretraining for improved downstream QA efficiency across multiple datasets. We study the finetuning of REALM on various QA tasks and explore the limits of various hyperparameter and supervision choices. We find that REALM was significantly undertrained when finetuning and simple improvements in the training, supervision, and inference setups can significantly benefit QA results and exceed the performance of other models published post it. Our best model, REALM++, incorporates all the best working findings and achieves significant QA accuracy improvements over baselines (~5.5% absolute accuracy) without any model design changes. Additionally, REALM++ matches the performance of large Open Domain QA models which have 3x more parameters demonstrating the efficiency of the setup.&lt;/p&gt;
-</description>
     </item>
     
   </channel>
