@@ -7,15 +7,24 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Vidhisha Balachandran 2018</copyright>
-    <lastBuildDate>Mon, 28 Sep 2020 00:00:00 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 23 Jan 2023 00:00:00 -0800</lastBuildDate>
     
 	<atom:link href="https://vidhishanair.github.io/tags/interpretability/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Unsupervised Keyphrase Extraction via Interpretable Neural Networks</title>
+      <link>https://vidhishanair.github.io/project/inspect/</link>
+      <pubDate>Mon, 23 Jan 2023 00:00:00 -0800</pubDate>
+      
+      <guid>https://vidhishanair.github.io/project/inspect/</guid>
+      <description>Keyphrase extraction aims at automatically extracting a list of ``important&amp;rdquo; phrases representing the key concepts in a document. Prior approaches for unsupervised keyphrase extraction resort to heuristic notions of phrase importance via embedding similarities or graph centrality, requiring extensive domain expertise to develop them. Our work presents an alternative operational definition: phrases that are most useful for predicting the topic of a text are keyphrases. To this end, we propose INSPECT&amp;mdash;a self-explaining neural framework for identifying influential keyphrases by measuring the predictive impact of input phrases on the downstream task of topic classification.</description>
+    </item>
+    
+    <item>
       <title>DialoGraph: Incorporating Interpretable Strategy-Graph Networks into Negotiation Dialogues</title>
       <link>https://vidhishanair.github.io/project/dialograph/</link>
-      <pubDate>Mon, 28 Sep 2020 00:00:00 +0530</pubDate>
+      <pubDate>Mon, 28 Sep 2020 00:00:00 -0700</pubDate>
       
       <guid>https://vidhishanair.github.io/project/dialograph/</guid>
       <description>To successfully negotiate a deal, it is not enough to communicate fluently: pragmatic planning of persuasive negotiation strategies is essential. While modern dialogue agents excel at generating fluent sentences, they still lack pragmatic grounding and cannot reason strategically. We present DialoGraph, a negotiation system that incorporates pragmatic strategies in a negotiation dialogue using graph neural networks. DialoGraph explicitly incorporates dependencies between sequences of strategies to enable improved and interpretable prediction of next optimal strategies, given the dialogue context.</description>

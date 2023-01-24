@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mitigation on Vidhisha Balachandran</title>
+    <link>https://vidhishanair.github.io/tags/mitigation/</link>
+    <description>Recent content in Mitigation on Vidhisha Balachandran</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Vidhisha Balachandran 2018</copyright>
+    <lastBuildDate>Mon, 23 Jan 2023 00:00:00 -0800</lastBuildDate>
+    
+	<atom:link href="https://vidhishanair.github.io/tags/mitigation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Language Generation Models Can Cause Harm: So What Can We Do About It? An Actionable Survey</title>
+      <link>https://vidhishanair.github.io/project/harms_survey/</link>
+      <pubDate>Mon, 23 Jan 2023 00:00:00 -0800</pubDate>
+      
+      <guid>https://vidhishanair.github.io/project/harms_survey/</guid>
+      <description>Recent advances in the capacity of large language models to generate human-like text have resulted in their increased adoption in user-facing settings. In parallel, these improvements have prompted a heated discourse around the risks of societal harms they introduce, whether inadvertent or malicious. Several studies have identified potential causes of these harms and called for their mitigation via development of safer and fairer models. Going beyond enumerating the risks of harms, this work provides a survey of practical methods for addressing potential threats and societal harms from language generation models.</description>
+    </item>
+    
+  </channel>
+</rss>

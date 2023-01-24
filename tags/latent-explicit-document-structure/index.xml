@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Vidhisha Balachandran 2018</copyright>
-    <lastBuildDate>Fri, 12 Oct 2018 00:00:00 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 12 Oct 2018 00:00:00 -0700</lastBuildDate>
     
 	<atom:link href="https://vidhishanair.github.io/tags/latent-explicit-document-structure/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>StructSum: Summarization via Structured Representations</title>
       <link>https://vidhishanair.github.io/project/structsum/</link>
-      <pubDate>Fri, 12 Oct 2018 00:00:00 +0530</pubDate>
+      <pubDate>Fri, 12 Oct 2018 00:00:00 -0700</pubDate>
       
       <guid>https://vidhishanair.github.io/project/structsum/</guid>
       <description>Abstractive text summarization aims at compressing the information of a long source document into a rephrased, condensed summary. Despite advances in modeling techniques, abstractive summarization models still suffer from several key challenges: (i) layout bias: they overfit to the style of training corpora; (ii) limited abstractiveness: they are optimized to copying n-grams from the source rather than generating novel abstractive summaries; (iii) lack of transparency: they are not interpretable. In this work, we propose a framework based on document-level structure induction for summarization to address these challenges.</description>

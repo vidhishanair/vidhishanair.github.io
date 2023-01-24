@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Vidhisha Balachandran 2018</copyright>
-    <lastBuildDate>Fri, 13 Dec 2019 00:00:00 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 13 Dec 2019 00:00:00 -0800</lastBuildDate>
     
 	<atom:link href="https://vidhishanair.github.io/tags/question-answering/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Differentiable Reasoning over a Virtual Knowledge Base</title>
       <link>https://vidhishanair.github.io/project/vkb/</link>
-      <pubDate>Fri, 13 Dec 2019 00:00:00 +0530</pubDate>
+      <pubDate>Fri, 13 Dec 2019 00:00:00 -0800</pubDate>
       
       <guid>https://vidhishanair.github.io/project/vkb/</guid>
       <description>We consider the task of answering complex multi-hop questions using a corpus as a virtual knowledge base (KB). In particular, we describe a neural module, DrKIT, that traverses textual data like a virtual KB, softly following paths of relations between mentions of entities in the corpus. At each step the operation uses a combination of sparse-matrix TFIDF indices and maximum inner product search (MIPS) on a special index of contextual representations.</description>

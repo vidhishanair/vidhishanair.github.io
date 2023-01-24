@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Vidhisha Balachandran 2018</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0800</lastBuildDate>
     
 	<atom:link href="https://vidhishanair.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Self Attention and Transformers for Undergrad NLP</title>
       <link>https://vidhishanair.github.io/talk/transf/</link>
-      <pubDate>Sat, 16 Apr 2022 00:00:00 +0530</pubDate>
+      <pubDate>Sat, 16 Apr 2022 00:00:00 -0700</pubDate>
       
       <guid>https://vidhishanair.github.io/talk/transf/</guid>
       <description></description>
@@ -24,7 +24,7 @@
     <item>
       <title>Simple and Efficient ways to Improve REALM</title>
       <link>https://vidhishanair.github.io/talk/realm/</link>
-      <pubDate>Tue, 01 Jun 2021 00:00:00 +0530</pubDate>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 -0700</pubDate>
       
       <guid>https://vidhishanair.github.io/talk/realm/</guid>
       <description></description>
@@ -33,7 +33,7 @@
     <item>
       <title>On the Transparency and Reliability of Automatic Summarization</title>
       <link>https://vidhishanair.github.io/talk/transp_summ/</link>
-      <pubDate>Fri, 30 Apr 2021 00:00:00 +0530</pubDate>
+      <pubDate>Fri, 30 Apr 2021 00:00:00 -0700</pubDate>
       
       <guid>https://vidhishanair.github.io/talk/transp_summ/</guid>
       <description></description>
