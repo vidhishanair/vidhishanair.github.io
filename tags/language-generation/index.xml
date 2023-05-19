@@ -21,5 +21,59 @@
       <description>Recent advances in the capacity of large language models to generate human-like text have resulted in their increased adoption in user-facing settings. In parallel, these improvements have prompted a heated discourse around the risks of societal harms they introduce, whether inadvertent or malicious. Several studies have identified potential causes of these harms and called for their mitigation via development of safer and fairer models. Going beyond enumerating the risks of harms, this work provides a survey of practical methods for addressing potential threats and societal harms from language generation models.</description>
     </item>
     
+    <item>
+      <title>Correcting Diverse Factual Errors in Abstractive Summarization via Post-Editing and Language Model Infilling</title>
+      <link>https://vidhishanair.github.io/project/factedit/</link>
+      <pubDate>Mon, 10 Oct 2022 00:00:00 -0700</pubDate>
+      
+      <guid>https://vidhishanair.github.io/project/factedit/</guid>
+      <description>Abstractive summarization models often generate inconsistent summaries containing factual errors or hallucinated content. Recent works focus on correcting factual errors in generated summaries via post-editing. Such correction models are trained using adversarial non-factual summaries constructed using heuristic rules for injecting errors. However, generating non-factual summaries using heuristics often does not generalize well to actual model errors. In this work, we propose to generate hard, representative synthetic examples of non-factual summaries through infilling language models.</description>
+    </item>
+    
+    <item>
+      <title>Understanding Factuality in Abstractive Summarization with FRANK: A Benchmark for Factuality Metrics</title>
+      <link>https://vidhishanair.github.io/project/frank/</link>
+      <pubDate>Tue, 27 Apr 2021 00:00:00 -0700</pubDate>
+      
+      <guid>https://vidhishanair.github.io/project/frank/</guid>
+      <description>Modern summarization models generate highly fluent but often factually unreliable outputs. This motivated a surge of metrics attempting to measure the factuality of automatically generated summaries. Due to the lack of common benchmarks, these metrics cannot be compared. Moreover, all these methods treat factuality as a binary concept and fail to provide deeper insights into the kinds of inconsistencies made by different systems. To address these limitations, we devise a typology of factual errors and use it to collect human annotations of generated summaries from state-of-the-art summarization systems for the CNN/DM and XSum datasets.</description>
+    </item>
+    
+    <item>
+      <title>DialoGraph: Incorporating Interpretable Strategy-Graph Networks into Negotiation Dialogues</title>
+      <link>https://vidhishanair.github.io/project/dialograph/</link>
+      <pubDate>Mon, 28 Sep 2020 00:00:00 -0700</pubDate>
+      
+      <guid>https://vidhishanair.github.io/project/dialograph/</guid>
+      <description>To successfully negotiate a deal, it is not enough to communicate fluently: pragmatic planning of persuasive negotiation strategies is essential. While modern dialogue agents excel at generating fluent sentences, they still lack pragmatic grounding and cannot reason strategically. We present DialoGraph, a negotiation system that incorporates pragmatic strategies in a negotiation dialogue using graph neural networks. DialoGraph explicitly incorporates dependencies between sequences of strategies to enable improved and interpretable prediction of next optimal strategies, given the dialogue context.</description>
+    </item>
+    
+    <item>
+      <title>StructSum: Summarization via Structured Representations</title>
+      <link>https://vidhishanair.github.io/project/structsum/</link>
+      <pubDate>Fri, 12 Oct 2018 00:00:00 -0700</pubDate>
+      
+      <guid>https://vidhishanair.github.io/project/structsum/</guid>
+      <description>Abstractive text summarization aims at compressing the information of a long source document into a rephrased, condensed summary. Despite advances in modeling techniques, abstractive summarization models still suffer from several key challenges: (i) layout bias: they overfit to the style of training corpora; (ii) limited abstractiveness: they are optimized to copying n-grams from the source rather than generating novel abstractive summaries; (iii) lack of transparency: they are not interpretable. In this work, we propose a framework based on document-level structure induction for summarization to address these challenges.</description>
+    </item>
+    
+    <item>
+      <title>Table to Text Generation</title>
+      <link>https://vidhishanair.github.io/project/tabletotext/</link>
+      <pubDate>Sun, 27 May 2018 00:00:00 -0700</pubDate>
+      
+      <guid>https://vidhishanair.github.io/project/tabletotext/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Definition Generation</title>
+      <link>https://vidhishanair.github.io/project/defgen/</link>
+      <pubDate>Mon, 04 Dec 2017 00:00:00 -0800</pubDate>
+      
+      <guid>https://vidhishanair.github.io/project/defgen/</guid>
+      <description>One way to test a person’s knowledge of a domain is to ask them to define domain-specific terms. Here, we investigate the task of automatically generating definitions of technical terms by reading text from the technical domain. Specifically, we learn definitions of software entities from a large corpus built from the user forum Stack Overflow. To model definitions, we train a language model and incorporate additional domain-specific information like word-word co-occurrence, and ontological category information.</description>
+    </item>
+    
   </channel>
 </rss>

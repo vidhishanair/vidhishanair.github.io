@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Vidhisha Balachandran 2018</copyright>
-    <lastBuildDate>Fri, 13 Dec 2019 00:00:00 -0800</lastBuildDate>
+    <lastBuildDate>Thu, 10 Jun 2021 00:00:00 -0700</lastBuildDate>
     
 	<atom:link href="https://vidhishanair.github.io/tags/question-answering/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Investigating the Effect of Background Knowledge on Natural Questions</title>
+      <link>https://vidhishanair.github.io/project/fatnq/</link>
+      <pubDate>Thu, 10 Jun 2021 00:00:00 -0700</pubDate>
+      
+      <guid>https://vidhishanair.github.io/project/fatnq/</guid>
+      <description>Existing work shows the benefits of integrating KBs with textual evidence for QA only on questions that are answerable by KBs alone (Sun et al., 2019). In contrast, real world QA systems often have to deal with questions that might not be directly answerable by KBs. Here, we investigate the effect of integrating background knowledge from KBs for the Natural Questions (NQ) task. We create a subset of the NQ data, Factual Questions (FQ), where the questions have evidence in the KB in the form of paths that link question entities to answer entities but still must be answered using text, to facilitate further research into KB integration methods.</description>
+    </item>
+    
+    <item>
+      <title>Simple and Efficient ways to Improve REALM</title>
+      <link>https://vidhishanair.github.io/project/realm/</link>
+      <pubDate>Sun, 18 Apr 2021 00:00:00 -0700</pubDate>
+      
+      <guid>https://vidhishanair.github.io/project/realm/</guid>
+      <description>Dense retrieval has been shown to be effective for retrieving relevant documents for Open Domain QA, surpassing popular sparse retrieval methods like BM25. REALM (Guu et al., 2020) is an end-to-end dense retrieval system that relies on MLM based pretraining for improved downstream QA efficiency across multiple datasets. We study the finetuning of REALM on various QA tasks and explore the limits of various hyperparameter and supervision choices. We find that REALM was significantly undertrained when finetuning and simple improvements in the training, supervision, and inference setups can significantly benefit QA results and exceed the performance of other models published post it.</description>
+    </item>
     
     <item>
       <title>Differentiable Reasoning over a Virtual Knowledge Base</title>
