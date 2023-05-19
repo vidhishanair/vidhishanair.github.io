@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reliable Generation on Vidhisha Balachandran</title>
+    <link>https://vidhishanair.github.io/tags/reliable-generation/</link>
+    <description>Recent content in Reliable Generation on Vidhisha Balachandran</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Vidhisha Balachandran 2018</copyright>
+    <lastBuildDate>Mon, 10 Oct 2022 00:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="https://vidhishanair.github.io/tags/reliable-generation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Correcting Diverse Factual Errors in Abstractive Summarization via Post-Editing and Language Model Infilling</title>
+      <link>https://vidhishanair.github.io/project/factedit/</link>
+      <pubDate>Mon, 10 Oct 2022 00:00:00 -0700</pubDate>
+      
+      <guid>https://vidhishanair.github.io/project/factedit/</guid>
+      <description>Abstractive summarization models often generate inconsistent summaries containing factual errors or hallucinated content. Recent works focus on correcting factual errors in generated summaries via post-editing. Such correction models are trained using adversarial non-factual summaries constructed using heuristic rules for injecting errors. However, generating non-factual summaries using heuristics often does not generalize well to actual model errors. In this work, we propose to generate hard, representative synthetic examples of non-factual summaries through infilling language models.</description>
+    </item>
+    
+  </channel>
+</rss>
