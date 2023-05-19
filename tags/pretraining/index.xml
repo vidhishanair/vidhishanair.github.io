@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pretraining on Vidhisha Balachandran</title>
+    <link>https://vidhishanair.github.io/tags/pretraining/</link>
+    <description>Recent content in Pretraining on Vidhisha Balachandran</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Vidhisha Balachandran 2018</copyright>
+    <lastBuildDate>Thu, 18 May 2023 00:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="https://vidhishanair.github.io/tags/pretraining/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>FactKB: Generalizable Factuality Evaluation using Language Models Enhanced with Factual Knowledge</title>
+      <link>https://vidhishanair.github.io/project/factkb/</link>
+      <pubDate>Thu, 18 May 2023 00:00:00 -0700</pubDate>
+      
+      <guid>https://vidhishanair.github.io/project/factkb/</guid>
+      <description>Evaluating the factual consistency of automatically generated summaries is essential for the progress and adoption of reliable summarization systems. Despite recent advances, existing factuality evaluation models are not robust, being especially prone to entity and relation errors in new domains. We propose FactKB, a simple new approach to factuality evaluation that is generalizable across domains, in particular with respect to entities and relations. FactKB is based on language models pretrained using facts extracted from external knowledge bases.</description>
+    </item>
+    
+  </channel>
+</rss>

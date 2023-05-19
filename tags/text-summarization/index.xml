@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Vidhisha Balachandran 2018</copyright>
-    <lastBuildDate>Mon, 10 Oct 2022 00:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 18 May 2023 00:00:00 -0700</lastBuildDate>
     
 	<atom:link href="https://vidhishanair.github.io/tags/text-summarization/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>FactKB: Generalizable Factuality Evaluation using Language Models Enhanced with Factual Knowledge</title>
+      <link>https://vidhishanair.github.io/project/factkb/</link>
+      <pubDate>Thu, 18 May 2023 00:00:00 -0700</pubDate>
+      
+      <guid>https://vidhishanair.github.io/project/factkb/</guid>
+      <description>Evaluating the factual consistency of automatically generated summaries is essential for the progress and adoption of reliable summarization systems. Despite recent advances, existing factuality evaluation models are not robust, being especially prone to entity and relation errors in new domains. We propose FactKB, a simple new approach to factuality evaluation that is generalizable across domains, in particular with respect to entities and relations. FactKB is based on language models pretrained using facts extracted from external knowledge bases.</description>
+    </item>
     
     <item>
       <title>Correcting Diverse Factual Errors in Abstractive Summarization via Post-Editing and Language Model Infilling</title>

@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Vidhisha Balachandran 2018</copyright>
-    <lastBuildDate>Mon, 23 Jan 2023 00:00:00 -0800</lastBuildDate>
+    <lastBuildDate>Thu, 18 May 2023 00:00:00 -0700</lastBuildDate>
     
 	<atom:link href="https://vidhishanair.github.io/tags/factuality/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CooK: Empowering General-Purpose Language Models with Modular and Collaborative Knowledge</title>
+      <link>https://vidhishanair.github.io/project/cook/</link>
+      <pubDate>Thu, 18 May 2023 00:00:00 -0700</pubDate>
+      
+      <guid>https://vidhishanair.github.io/project/cook/</guid>
+      <description>Large language models (LLMs) are increasingly adopted for knowledge-intensive tasks and contexts. Existing approaches improve the knowledge capabilities of general-purpose LLMs through retrieval or generated knowledge prompting, but they fall short of reflecting two key properties of knowledge-rich models: knowledge should be modular, ever-growing, sourced from diverse domains; knowledge acquisition and production should be a collaborative process, where diverse stakeholders contribute new information. To this end, we propose CooK, a novel framework to empower general-purpose large language models with modular and collaboratively sourced knowledge.</description>
+    </item>
+    
+    <item>
+      <title>FactKB: Generalizable Factuality Evaluation using Language Models Enhanced with Factual Knowledge</title>
+      <link>https://vidhishanair.github.io/project/factkb/</link>
+      <pubDate>Thu, 18 May 2023 00:00:00 -0700</pubDate>
+      
+      <guid>https://vidhishanair.github.io/project/factkb/</guid>
+      <description>Evaluating the factual consistency of automatically generated summaries is essential for the progress and adoption of reliable summarization systems. Despite recent advances, existing factuality evaluation models are not robust, being especially prone to entity and relation errors in new domains. We propose FactKB, a simple new approach to factuality evaluation that is generalizable across domains, in particular with respect to entities and relations. FactKB is based on language models pretrained using facts extracted from external knowledge bases.</description>
+    </item>
     
     <item>
       <title>Language Generation Models Can Cause Harm: So What Can We Do About It? An Actionable Survey</title>
