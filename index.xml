@@ -20,6 +20,15 @@
     </item>
     
     <item>
+      <title>Generalizable Factual Error Correction of Model Generated Summaries</title>
+      <link>https://vidhishanair.github.io/talk/semafor/</link>
+      <pubDate>Thu, 18 May 2023 00:00:00 -0700</pubDate>
+      
+      <guid>https://vidhishanair.github.io/talk/semafor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Language Generation Models Can Cause Harm: So What Can We Do About It? An Actionable Survey</title>
       <link>https://vidhishanair.github.io/project/harms_survey/</link>
       <pubDate>Mon, 23 Jan 2023 00:00:00 -0800</pubDate>
@@ -142,15 +151,6 @@
       <pubDate>Tue, 27 Apr 2021 00:00:00 -0700</pubDate>
       
       <guid>https://vidhishanair.github.io/publication/frank/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SelfExplain: A Self-Explaining Architecture for Neural Text Classifiers</title>
-      <link>https://vidhishanair.github.io/publication/selfexplain/</link>
-      <pubDate>Fri, 23 Apr 2021 00:00:00 -0700</pubDate>
-      
-      <guid>https://vidhishanair.github.io/publication/selfexplain/</guid>
       <description></description>
     </item>
     
