@@ -20,6 +20,15 @@
     </item>
     
     <item>
+      <title>Actionable Directions for Reporting and Mitigating Language Model Harms</title>
+      <link>https://vidhishanair.github.io/talk/georgetown/</link>
+      <pubDate>Mon, 19 Jun 2023 00:00:00 -0700</pubDate>
+      
+      <guid>https://vidhishanair.github.io/talk/georgetown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>CooK: Empowering General-Purpose Language Models with Modular and Collaborative Knowledge</title>
       <link>https://vidhishanair.github.io/project/cook/</link>
       <pubDate>Thu, 18 May 2023 00:00:00 -0700</pubDate>
@@ -144,15 +153,6 @@
       <guid>https://vidhishanair.github.io/project/fatnq/</guid>
       <description>&lt;p&gt;Existing work shows the benefits of integrating KBs with textual evidence for QA only on questions that are answerable by KBs alone (Sun et al., 2019). In contrast, real world QA systems often have to deal with questions that might not be directly answerable by KBs. Here, we investigate the effect of integrating background knowledge from KBs for the Natural Questions (NQ) task. We create a subset of the NQ data, Factual Questions (FQ), where the questions have evidence in the KB in the form of paths that link question entities to answer entities but still must be answered using text, to facilitate further research into KB integration methods. We propose and analyze a simple, model-agnostic approach for incorporating KB paths into text-based QA systems and establish a strong upper bound on FQ for our method using an oracle retriever. We show that several variants of Personalized PageRank based fact retrievers lead to a low recall of answer entities and consequently fail to improve QA performance. Our results suggest that fact retrieval is a bottleneck for integrating KBs into real world QA datasets&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Simple and Efficient ways to Improve REALM</title>
-      <link>https://vidhishanair.github.io/talk/realm/</link>
-      <pubDate>Tue, 01 Jun 2021 00:00:00 -0700</pubDate>
-      
-      <guid>https://vidhishanair.github.io/talk/realm/</guid>
-      <description></description>
     </item>
     
   </channel>
