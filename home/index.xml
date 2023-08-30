@@ -22,6 +22,19 @@
     </item>
     
     <item>
+      <title>Recent News</title>
+      <link>https://vidhishanair.github.io/home/recent_news/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vidhishanair.github.io/home/recent_news/</guid>
+      <description>[09/07/23] Attending ACL 2023 to present LEXplain at *SEM 2023.
+[16/06/23] Our paper&amp;rsquo;LEXplain: Improving Model Explanations via Lexicon Supervision&amp;rsquo; was accepted to *SEM.
+[05/05/23] Presented our survey paper on Mitigating LM Risks at EACL 2023.
+[17/04/23] Proposed my thesis on &amp;lsquo;Designing Transparent and Factual Text Generation Systems
+Grounded in Linguistic Structures&amp;rsquo;.</description>
+    </item>
+    
+    <item>
       <title></title>
       <link>https://vidhishanair.github.io/home/about/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
