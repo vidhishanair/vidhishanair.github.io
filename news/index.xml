@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News on Vidhisha Balachandran</title>
+    <link>https://vidhishanair.github.io/news/</link>
+    <description>Recent content in News on Vidhisha Balachandran</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Vidhisha Balachandran 2018</copyright>
+    <lastBuildDate>Fri, 01 Dec 2017 00:00:00 -0800</lastBuildDate>
+    
+	<atom:link href="https://vidhishanair.github.io/news/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>News</title>
+      <link>https://vidhishanair.github.io/news/news/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 -0800</pubDate>
+      
+      <guid>https://vidhishanair.github.io/news/news/</guid>
+      <description>[28/08/23] Excited to be selected as an EECS Rising Star 2023!
+[09/07/23] Attending ACL 2023 to present LEXplain at *SEM 2023.
+[20/06/23] Gave a talk on Reporting and Mitigating Language Model Harms at the Center for Security and Emerging Technology at Georgetown University!
+[16/06/23] Our paper&amp;rsquo;LEXplain: Improving Model Explanations via Lexicon Supervision&amp;rsquo; was accepted to *SEM.
+[18/05/23] Gave a talk on Generalizable Factual Error Correction at the DARPA SemaFor group!</description>
+    </item>
+    
+  </channel>
+</rss>
