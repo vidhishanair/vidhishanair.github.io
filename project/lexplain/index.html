@@ -1,5 +1,3 @@
-
-
 <!DOCTYPE html>
 <html lang="en-us">
 <head>
@@ -17,10 +15,10 @@
   
     
   
-  <meta name="description" content="Graduate Student at Language Technologies Institute">
+  <meta name="description" content="Model explanations that shed light on the model{&lsquo;}s predictions are becoming a desired additional output of NLP models, alongside their predictions. Challenges in creating these explanations include making them trustworthy and faithful to the model{&rsquo;}s predictions. In this work, we propose a novel framework for guiding model explanations by supervising them explicitly. To this end, our method, LEXplain, uses task-related lexicons to directly supervise model explanations. This approach consistently improves the model{&lsquo;}s explanations without sacrificing performance on the task, as we demonstrate on sentiment analysis and toxicity detection.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://vidhishanair.github.io/tags/">
+  <link rel="alternate" hreflang="en-us" href="https://vidhishanair.github.io/project/lexplain/">
 
   
 
@@ -80,36 +78,38 @@
   
 
   
-  <link rel="alternate" href="https://vidhishanair.github.io/tags/index.xml" type="application/rss+xml" title="Vidhisha Balachandran">
-  <link rel="feed" href="https://vidhishanair.github.io/tags/index.xml" type="application/rss+xml" title="Vidhisha Balachandran">
+  <link rel="alternate" href="https://vidhishanair.github.io/index.xml" type="application/rss+xml" title="Vidhisha Balachandran">
+  <link rel="feed" href="https://vidhishanair.github.io/index.xml" type="application/rss+xml" title="Vidhisha Balachandran">
   
 
   <link rel="manifest" href="/site.webmanifest">
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://vidhishanair.github.io/tags/">
+  <link rel="canonical" href="https://vidhishanair.github.io/project/lexplain/">
 
   <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="Vidhisha Balachandran">
-  <meta property="og:url" content="https://vidhishanair.github.io/tags/">
-  <meta property="og:title" content="Tags | Vidhisha Balachandran">
-  <meta property="og:description" content="Graduate Student at Language Technologies Institute">
+  <meta property="og:url" content="https://vidhishanair.github.io/project/lexplain/">
+  <meta property="og:title" content="LEXplain: Improving Model Explanations via Lexicon Supervision | Vidhisha Balachandran">
+  <meta property="og:description" content="Model explanations that shed light on the model{&lsquo;}s predictions are becoming a desired additional output of NLP models, alongside their predictions. Challenges in creating these explanations include making them trustworthy and faithful to the model{&rsquo;}s predictions. In this work, we propose a novel framework for guiding model explanations by supervising them explicitly. To this end, our method, LEXplain, uses task-related lexicons to directly supervise model explanations. This approach consistently improves the model{&lsquo;}s explanations without sacrificing performance on the task, as we demonstrate on sentiment analysis and toxicity detection.">
   
   
     
   <meta property="og:image" content="https://vidhishanair.github.io/img/icon-192.png">
   <meta property="og:locale" content="en-us">
   
-  <meta property="og:updated_time" content="2021-03-23T00:00:00-07:00">
+  <meta property="article:published_time" content="2021-07-10T00:00:00-07:00">
+  
+  <meta property="article:modified_time" content="2021-07-10T00:00:00-07:00">
   
 
   
 
   
 
-  <title>Tags | Vidhisha Balachandran</title>
+  <title>LEXplain: Improving Model Explanations via Lexicon Supervision | Vidhisha Balachandran</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
@@ -273,7 +273,9 @@
 </nav>
 
 
+<article class="article article-project" itemscope itemtype="http://schema.org/Article">
 
+  
 
 
 
@@ -290,72 +292,251 @@
 
   
   
+  
+<div class="article-container pt-3">
+  <h1 itemprop="name">LEXplain: Improving Model Explanations via Lexicon Supervision</h1>
+
+  
+
   
     
-  
-<div class="universal-wrapper pt-3">
-  <h1 itemprop="name">Tags</h1>
 
-  
-
-  
-</div>
-
-
-
-<div class="universal-wrapper">
-  
+<div class="article-metadata">
 
   
   
-  <div>
-    <h2><a href="/tags/text-classification/">Text Classification</a></h2>
-    <div class="article-style">
-      
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="/tags/text-summarization/">Text Summarization</a></h2>
-    <div class="article-style">
-      
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="/tags/typology-framework/">Typology Framework</a></h2>
-    <div class="article-style">
-      
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="/tags/unsupervised-objectives/">Unsupervised Objectives</a></h2>
-    <div class="article-style">
-      
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="/tags/word-embeddings/">Word Embeddings</a></h2>
-    <div class="article-style">
-      
-    </div>
-  </div>
+  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+    <meta itemprop="name" content="Vidhisha Balachandran">
+  </span>
   
 
-  
-<nav>
-  <ul class="pagination justify-content-center">
+  <span class="article-date">
     
-    <li class="page-item"><a class="page-link" href="/tags/page/3/">&laquo;</a></li>
-    
-    
+    <meta content="2021-07-10 00:00:00 -0700 PDT" itemprop="datePublished">
+    <time datetime="2021-07-10 00:00:00 -0700 PDT" itemprop="dateModified">
+      Jul 10, 2021
+    </time>
+  </span>
+  <span itemscope itemprop="publisher" itemtype="http://schema.org/Person">
+    <meta itemprop="name" content="Vidhisha Balachandran">
+  </span>
+
+  
+
+  
+  
+
+  
+
+  
+  
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    <li>
+      <a class="twitter"
+         href="https://twitter.com/intent/tweet?text=LEXplain%3a%20Improving%20Model%20Explanations%20via%20Lexicon%20Supervision&amp;url=https%3a%2f%2fvidhishanair.github.io%2fproject%2flexplain%2f"
+         target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+    <li>
+      <a class="facebook"
+         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fvidhishanair.github.io%2fproject%2flexplain%2f"
+         target="_blank" rel="noopener">
+        <i class="fab fa-facebook-f"></i>
+      </a>
+    </li>
+    <li>
+      <a class="linkedin"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fvidhishanair.github.io%2fproject%2flexplain%2f&amp;title=LEXplain%3a%20Improving%20Model%20Explanations%20via%20Lexicon%20Supervision"
+         target="_blank" rel="noopener">
+        <i class="fab fa-linkedin-in"></i>
+      </a>
+    </li>
+    <li>
+      <a class="weibo"
+         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fvidhishanair.github.io%2fproject%2flexplain%2f&amp;title=LEXplain%3a%20Improving%20Model%20Explanations%20via%20Lexicon%20Supervision"
+         target="_blank" rel="noopener">
+        <i class="fab fa-weibo"></i>
+      </a>
+    </li>
+    <li>
+      <a class="email"
+         href="mailto:?subject=LEXplain%3a%20Improving%20Model%20Explanations%20via%20Lexicon%20Supervision&amp;body=https%3a%2f%2fvidhishanair.github.io%2fproject%2flexplain%2f">
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
   </ul>
-</nav>
+</div>
 
+
+  
 
 </div>
+
+    
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style" itemprop="articleBody">
+      <p>Model explanations that shed light on the model{&lsquo;}s predictions are becoming a desired additional output of NLP models, alongside their predictions. Challenges in creating these explanations include making them trustworthy and faithful to the model{&rsquo;}s predictions. In this work, we propose a novel framework for guiding model explanations by supervising them explicitly. To this end, our method, LEXplain, uses task-related lexicons to directly supervise model explanations. This approach consistently improves the model{&lsquo;}s explanations without sacrificing performance on the task, as we demonstrate on sentiment analysis and toxicity detection. Our analyses show that our method also demotes spurious correlations (i.e., with respect to African American English dialect) when performing the task, improving fairness.</p>
+
+    </div>
+
+    
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tags/interpretability-by-design/">Interpretability by Design</a>
+  
+  <a class="badge badge-light" href="/tags/interpretability/">Interpretability</a>
+  
+  <a class="badge badge-light" href="/tags/explanation-feedback/">Explanation Feedback</a>
+  
+</div>
+
+
+
+    
+
+
+
+
+
+
+<div class="media author-card" itemscope itemtype="http://schema.org/Person">
+  
+  <img class="portrait mr-3" src="/img/portrait.jpg" itemprop="image" alt="Avatar">
+  
+  <div class="media-body">
+    <h5 class="card-title" itemprop="name"><a href="/">Vidhisha Balachandran</a></h5>
+    <h6 class="card-subtitle">Graduate Student at Language Technologies Institute</h6>
+    
+    <ul class="network-icon" aria-hidden="true">
+      
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a itemprop="sameAs" href="mailto:vbalacha@cs.cmu.edu" >
+          <i class="fa fa-envelope"></i>
+        </a>
+      </li>
+      
+      
+      
+      
+      
+      
+      
+      
+        
+      
+      <li>
+        <a itemprop="sameAs" href="https://scholar.google.com/citations?user=LgitgaIAAAAJ&amp;hl=en&amp;oi=ao" target="_blank" rel="noopener">
+          <i class="ai ai-google-scholar"></i>
+        </a>
+      </li>
+      
+      
+      
+      
+        
+      
+      
+      
+      
+      
+        
+      
+      <li>
+        <a itemprop="sameAs" href="https://github.com/vidhishanair" target="_blank" rel="noopener">
+          <i class="fab fa-github"></i>
+        </a>
+      </li>
+      
+      
+      
+      
+        
+      
+      
+      
+      
+      
+        
+      
+      <li>
+        <a itemprop="sameAs" href="https://www.linkedin.com/in/vidhishanair" target="_blank" rel="noopener">
+          <i class="fab fa-linkedin"></i>
+        </a>
+      </li>
+      
+    </ul>
+  </div>
+</div>
+
+
+
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+
+      
+      
+      
+
+      
+      
+      
+      
+
+      
+      
+      
+      
+    
+
+  </div>
+</article>
+
+
+
 <div class="container">
   <footer class="site-footer">
   
@@ -486,6 +667,4 @@
 
   </body>
 </html>
-
-
 
