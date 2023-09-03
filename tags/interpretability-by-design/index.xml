@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Vidhisha Balachandran 2018</copyright>
-    <lastBuildDate>Tue, 23 Mar 2021 00:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 10 Jul 2021 00:00:00 -0700</lastBuildDate>
     
 	<atom:link href="https://vidhishanair.github.io/tags/interpretability-by-design/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>LEXplain: Improving Model Explanations via Lexicon Supervision</title>
+      <link>https://vidhishanair.github.io/project/lexplain/</link>
+      <pubDate>Sat, 10 Jul 2021 00:00:00 -0700</pubDate>
+      
+      <guid>https://vidhishanair.github.io/project/lexplain/</guid>
+      <description>Model explanations that shed light on the model{&amp;lsquo;}s predictions are becoming a desired additional output of NLP models, alongside their predictions. Challenges in creating these explanations include making them trustworthy and faithful to the model{&amp;rsquo;}s predictions. In this work, we propose a novel framework for guiding model explanations by supervising them explicitly. To this end, our method, LEXplain, uses task-related lexicons to directly supervise model explanations. This approach consistently improves the model{&amp;lsquo;}s explanations without sacrificing performance on the task, as we demonstrate on sentiment analysis and toxicity detection.</description>
+    </item>
     
     <item>
       <title>SelfExplain: A Self-Explaining Architecture for Neural Text Classifiers</title>

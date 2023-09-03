@@ -118,6 +118,14 @@
     
     <url>
     
+      <loc>https://vidhishanair.github.io/project/lexplain/</loc>
+      <lastmod>2021-07-10T00:00:00-07:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://vidhishanair.github.io/project/fatnq/</loc>
       <lastmod>2021-06-10T00:00:00-07:00</lastmod>
     </url>
@@ -377,6 +385,15 @@
     
     <url>
     
+      <loc>https://vidhishanair.github.io/tags/explanation-feedback/</loc>
+      <lastmod>2021-07-10T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://vidhishanair.github.io/tags/factuality/</loc>
       <lastmod>2023-05-18T00:00:00-07:00</lastmod>
       <priority>0</priority>
@@ -423,7 +440,7 @@
     <url>
     
       <loc>https://vidhishanair.github.io/tags/interpretability-by-design/</loc>
-      <lastmod>2021-03-23T00:00:00-07:00</lastmod>
+      <lastmod>2021-07-10T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -691,6 +708,15 @@
     
       <loc>https://vidhishanair.github.io/</loc>
       <lastmod>2017-10-15T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://vidhishanair.github.io/tags/weak-lexicon-supervision/</loc>
+      <lastmod>2021-07-10T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
     

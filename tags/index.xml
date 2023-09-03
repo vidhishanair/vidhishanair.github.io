@@ -40,6 +40,15 @@
     </item>
     
     <item>
+      <title>Explanation Feedback</title>
+      <link>https://vidhishanair.github.io/tags/explanation-feedback/</link>
+      <pubDate>Sat, 10 Jul 2021 00:00:00 -0700</pubDate>
+      
+      <guid>https://vidhishanair.github.io/tags/explanation-feedback/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Factuality</title>
       <link>https://vidhishanair.github.io/tags/factuality/</link>
       <pubDate>Thu, 18 May 2023 00:00:00 -0700</pubDate>
@@ -87,7 +96,7 @@
     <item>
       <title>Interpretability by Design</title>
       <link>https://vidhishanair.github.io/tags/interpretability-by-design/</link>
-      <pubDate>Tue, 23 Mar 2021 00:00:00 -0700</pubDate>
+      <pubDate>Sat, 10 Jul 2021 00:00:00 -0700</pubDate>
       
       <guid>https://vidhishanair.github.io/tags/interpretability-by-design/</guid>
       <description></description>
@@ -306,6 +315,15 @@
       <pubDate>Mon, 23 Jan 2023 00:00:00 -0800</pubDate>
       
       <guid>https://vidhishanair.github.io/tags/unsupervised-objectives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weak Lexicon Supervision</title>
+      <link>https://vidhishanair.github.io/tags/weak-lexicon-supervision/</link>
+      <pubDate>Sat, 10 Jul 2021 00:00:00 -0700</pubDate>
+      
+      <guid>https://vidhishanair.github.io/tags/weak-lexicon-supervision/</guid>
       <description></description>
     </item>
     
