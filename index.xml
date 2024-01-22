@@ -48,15 +48,6 @@
     </item>
     
     <item>
-      <title>CooK: Empowering General-Purpose Language Models with Modular and Collaborative Knowledge</title>
-      <link>https://vidhishanair.github.io/publication/cook/</link>
-      <pubDate>Thu, 18 May 2023 00:00:00 -0700</pubDate>
-      
-      <guid>https://vidhishanair.github.io/publication/cook/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>FactKB: Generalizable Factuality Evaluation using Language Models Enhanced with Factual Knowledge</title>
       <link>https://vidhishanair.github.io/project/factkb/</link>
       <pubDate>Thu, 18 May 2023 00:00:00 -0700</pubDate>
@@ -81,6 +72,15 @@
       <pubDate>Thu, 18 May 2023 00:00:00 -0700</pubDate>
       
       <guid>https://vidhishanair.github.io/talk/semafor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Knowledge Card: Filling LLMs&#39; Knowledge Gaps with Plug-in Specialized Language Models</title>
+      <link>https://vidhishanair.github.io/publication/cook/</link>
+      <pubDate>Thu, 18 May 2023 00:00:00 -0700</pubDate>
+      
+      <guid>https://vidhishanair.github.io/publication/cook/</guid>
       <description></description>
     </item>
     
